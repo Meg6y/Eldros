@@ -2,7 +2,7 @@
 title: This is Eldros
 ---
 
-<div id="map" style="width: 100%; height: 600px; z-index: 1; position: relative;"></div>
+<div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
 
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -23,6 +23,8 @@ title: This is Eldros
     var imageUrl = '/Imagefolder/NaturmitGrenzen.png';  // Path to your image
     var imageBounds = [[0, 0], [1800, 2400]];  // Adjust these bounds as needed
 
+    L.imageOverlay(imageUrl, imageBounds).addTo(map);
+	
     map.fitBounds(imageBounds);  // Zooms and pans the map to fit the image exactly
 
     // Add a click event to the map
