@@ -66,35 +66,35 @@ title: This is Eldros
 	var CityIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Cityicon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var AußenIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Außenbereichicon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var ContinentIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/continenticon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var IslandIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Islandicon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var WildIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Wildnissicon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
