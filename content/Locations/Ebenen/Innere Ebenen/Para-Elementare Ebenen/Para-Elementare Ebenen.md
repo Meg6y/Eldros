@@ -1,0 +1,1 @@
+Übergangsebenen zwischen den Elemental Planes, z.B. Steam (zwischen Fire und Water), Ooze (zwischen Earth und Water).
