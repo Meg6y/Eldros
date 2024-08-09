@@ -43,7 +43,7 @@ title: This is Eldros
 	
     //Markericons:
 
-	var DynastyIcon = L.Divicon({
+	var DynastyIcon = L.divIcon({
 	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [15, 30],
