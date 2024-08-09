@@ -1,1 +1,0 @@
-Die "Flat-Earthers" der Welt, lol

@@ -1,1 +1,0 @@
-Eine Ebene aus ständigem Feuer und Lava.

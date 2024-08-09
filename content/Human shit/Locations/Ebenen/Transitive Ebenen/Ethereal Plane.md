@@ -1,1 +1,0 @@
-Eine neblige Ebene, die die materielle Welt mit den inneren Ebenen verbindet.

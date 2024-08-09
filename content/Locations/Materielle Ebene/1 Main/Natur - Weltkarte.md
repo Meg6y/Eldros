@@ -1,4 +1,4 @@
-#private
+
 ```leaflet
 ### id must be unique  
 id: naturweltmap 
@@ -27,6 +27,6 @@ defaultZoom: -1
 ### How far it zooms in or out with each step. Can be in decimals.  
 zoomDelta: 0.5  
 ### This is a string so can be any text. Change it to match your maps measurement scale.  
-unit: kilometers 
-
+unit: kilometers  
+scale: 1
 ```
