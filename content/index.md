@@ -40,13 +40,66 @@ title: This is Eldros
     });
 
 	
-    //Marker:
-	var CityIcon = L.icon({
-	    iconUrl: '/Imagefolder/Cityicon.png',
-	    iconSize: [38, 38],
+    //Markericons:
+
+	var DynastyIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
+	    iconSize: [30, 30],
 	    iconAnchor: [22, 38],
 	    popupAnchor: [-3, -38]
 	});
+	
+	var NationIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/Nationicon.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [22, 38],
+	    popupAnchor: [-3, -38]
+	});
+	
+	var CountryIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/Countryicon.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [22, 38],
+	    popupAnchor: [-3, -38]
+	});
+	
+	var CityIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/Cityicon.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [22, 38],
+	    popupAnchor: [-3, -38]
+	});
+	
+	var AußenIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/Außenbereichicon.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [22, 38],
+	    popupAnchor: [-3, -38]
+	});
+	
+	var ContinentIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/continenticon.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [22, 38],
+	    popupAnchor: [-3, -38]
+	});
+	
+	var IslandIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/Islandicon.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [22, 38],
+	    popupAnchor: [-3, -38]
+	});
+	
+	var WildIcon = L.icon({
+	    iconUrl: '/Imagefolder/IconsMap/Wildnissicon.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [22, 38],
+	    popupAnchor: [-3, -38]
+	});
+	
+	
+	//Marker
 
     L.marker([1200, 700], { icon: CityIcon }).addTo(map)
         .bindPopup('This is a simple text popup');
