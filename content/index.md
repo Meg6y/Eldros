@@ -43,14 +43,14 @@ title: This is Eldros
 	
     //Markericons:
 
-	var DynastyIcon = L.divIcon({
+	var DynastyIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
-	var NationIcon = L.Divicon({
+	var NationIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Nationicon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [15, 30],
@@ -99,6 +99,16 @@ title: This is Eldros
 	    popupAnchor: [-3, -38]
 	});
 	
+	map.on('zoomend', function() {
+		var currentZoom = map.getZoom();
+		var scale = 1 / Math.pow(2, (currentZoom - 10) / 4); // Adjust scale factor as needed
+		
+		// Apply the scale transformation to each marker icon
+		document.querySelectorAll('.leaflet-marker-icon').forEach(function(icon) {
+			icon.style.transform = `scale(${scale})`;
+			icon.style.transformOrigin = 'center'; // Scale from the center of the icon
+		});
+	});
 	
 	//Marker
 	//Dynasties
