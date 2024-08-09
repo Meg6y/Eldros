@@ -43,14 +43,14 @@ title: This is Eldros
 	
     //Markericons:
 
-	var DynastyIcon = L.icon({
+	var DynastyIcon = L.Divicon({
 	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
-	var NationIcon = L.icon({
+	var NationIcon = L.Divicon({
 	    iconUrl: '/Imagefolder/IconsMap/Nationicon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [15, 30],
