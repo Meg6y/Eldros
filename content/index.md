@@ -42,7 +42,7 @@ title: This is Eldros
 	
     //Marker:
 	var CityIcon = L.icon({
-	    iconUrl: '/Imagefolder/avfmyrp7o.webp',
+	    iconUrl: '/Imagefolder/Cityicon.png',
 	    iconSize: [38, 38],
 	    iconAnchor: [22, 38],
 	    popupAnchor: [-3, -38]
