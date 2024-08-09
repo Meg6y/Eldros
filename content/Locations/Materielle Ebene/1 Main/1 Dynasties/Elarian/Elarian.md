@@ -16,7 +16,7 @@ unnatürlich ruhig und still, Tiere bilden die Hintergrundgeräusche
 In den Städten und Siedlungen ist mehr los, aber alles klingt trotzdem ruhig und fast... sedated?
 Es riecht nach Wald, Blumen und Regen.
 ## Besondere Anwohner
-##### Königsfamilie "Elaria"
+##### [[Königsfamilie  Elaria]]
 Queen: [[Kylia Elaria]]
 King: [[Iston Elaria]]
 Child 1: f, [[Daena Elaria]]

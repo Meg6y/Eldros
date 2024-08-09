@@ -1,8 +1,11 @@
-#draft
+---
+tags:
+  - Location
+  - draft
+---
 
-|                 |     |
-| :-------------- | :-- |
 | **==name==**    |     |
+| :-------------- | :-- |
 | ***Geograpie*** |     |
 | Natur:          |     |
 | Beinhaltet:     |     |

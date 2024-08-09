@@ -1,4 +1,8 @@
-#creature #draft 
+---
+tags:
+  - creature
+  - draft
+---
 ### Pic:
 ![|400]()
 ### Statblock:
