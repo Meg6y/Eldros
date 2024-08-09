@@ -15,6 +15,7 @@ title: This is Eldros
     var map = L.map('map', {
         crs: L.CRS.Simple,  // Use a simple CRS since we're not using a real map
         minZoom: -1.5,  // Allows zooming out to see the whole image
+		maxZoom: 19,
         zoomSnap: 0.1,  // Smoother zoom steps
         zoomDelta: 0.25,  // Smaller zoom increments
         zoomAnimation: true  // Enable smooth zoom transitions
