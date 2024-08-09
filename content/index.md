@@ -99,17 +99,6 @@ title: This is Eldros
 	    popupAnchor: [-3, -38]
 	});
 	
-	map.on('zoomend', function() {
-		var currentZoom = map.getZoom();
-		var scale = 1 / Math.pow(2, (currentZoom - 10) / 4); // Adjust scale factor as needed
-		
-		// Apply the scale transformation to each marker icon
-		document.querySelectorAll('.leaflet-marker-icon').forEach(function(icon) {
-			icon.style.transform = `scale(${scale})`;
-			icon.style.transformOrigin = 'center'; // Scale from the center of the icon
-		});
-	});
-	
 	//Marker
 	//Dynasties
     L.marker([957.32, 546.65], { icon: DynastyIcon }).addTo(map)
