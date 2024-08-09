@@ -45,7 +45,7 @@ title: This is Eldros
 
 	var DynastyIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
-	    iconSize: [50, 50],
+	    iconSize: [60, 60],
 	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
@@ -59,21 +59,21 @@ title: This is Eldros
 	
 	var CountryIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Countryicon.png',
-	    iconSize: [50, 50],
+	    iconSize: [40, 40],
 	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var CityIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Cityicon.png',
-	    iconSize: [50, 50],
+	    iconSize: [30, 30],
 	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var AußenIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Außenbereichicon.png',
-	    iconSize: [50, 50],
+	    iconSize: [20, 20],
 	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
@@ -94,7 +94,7 @@ title: This is Eldros
 	
 	var WildIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Wildnissicon.png',
-	    iconSize: [50, 50],
+	    iconSize: [35, 35],
 	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
@@ -118,7 +118,8 @@ title: This is Eldros
 		
     L.marker([514.64, 1916.92], { icon: DynastyIcon }).addTo(map)
         .bindPopup('Arvendell');
-		
+
+
 	//Größere Länder
     L.marker([1574.63, 830.12], { icon: NationIcon }).addTo(map)
         .bindPopup('Aurora');
@@ -141,4 +142,121 @@ title: This is Eldros
     L.marker([1024.77, 1673.56], { icon: NationIcon }).addTo(map)
         .bindPopup('Silvershore');
 
+
+	//Kleinere Länder
+	L.marker([843.61, 545.02], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Silberfels');
+		
+	L.marker([1234.30, 904.04], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Elvaria');
+		
+	L.marker([1131.58, 1011.16], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Shadowfen');
+		
+	L.marker([916.98, 974.04], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Bellagrim');
+		
+	L.marker([796.41, 865.85], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Thornwood');
+		
+	L.marker([673.02, 981.82], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Silverdale');
+		
+	L.marker([1184.10, 1283.98], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Rabenklippe');
+		
+	L.marker([953.26, 1633.44], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Aeloria');
+		
+	L.marker([901.28, 1503.48], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Mondhafen');
+		
+	L.marker([808.68, 1438.50], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Orden von Luminara');
+		
+	L.marker([795.68, 1344.28], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Galathar');
+		
+	L.marker([753.45, 1386.51], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Winterheim');
+		
+	L.marker([586.12, 1336.97], { icon: CountryIcon }).addTo(map)
+        .bindPopup('Emeraldia');
+		
+		
+	//Cities
+	L.marker([1347.54, 705.23], { icon: CityIcon }).addTo(map)
+        .bindPopup('Parathor');
+		
+	L.marker([1220.00, 1107.14], { icon: CityIcon }).addTo(map)
+        .bindPopup('Seraphel');
+		
+	L.marker([891.50, 759.35], { icon: CityIcon }).addTo(map)
+        .bindPopup('Brückenstadt Aran');
+		
+	L.marker([1005.65, 1441.41], { icon: CityIcon }).addTo(map)
+        .bindPopup('Talongarde');
+
+	L.marker([817.02, 1492.85], { icon: CityIcon }).addTo(map)
+        .bindPopup('Rivermark');
+		
+	L.marker([781.11, 1307.44], { icon: CityIcon }).addTo(map)
+        .bindPopup('Drakenhavn');
+		
+	L.marker([681.97, 1100.05], { icon: CityIcon }).addTo(map)
+        .bindPopup('Wucodon');
+		
+	L.marker([687.87, 1414.08], { icon: CityIcon }).addTo(map)
+        .bindPopup('Feuerwacht');
+		
+		
+	//Außenbereiche
+	L.marker([872.73, 325.87], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: ');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
+	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu:');
+		
 </script>
