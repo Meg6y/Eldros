@@ -41,18 +41,18 @@ title: This is Eldros
 
 	
     //Marker:
-	var customIcon = L.icon({
-	    iconUrl: '/Imagefolder/Apollor.png',
+	var CityIcon = L.icon({
+	    iconUrl: '/Imagefolder/avfmyrp7o.webp',
 	    iconSize: [38, 38],
 	    iconAnchor: [22, 38],
 	    popupAnchor: [-3, -38]
 	});
 
-    L.marker([1200, 700], { icon: customIcon }).addTo(map)
+    L.marker([1200, 700], { icon: CityIcon }).addTo(map)
         .bindPopup('This is a simple text popup');
 
     // Add another marker with simple text popup
-    L.marker([1200, 600], { icon: customIcon }).addTo(map)
+    L.marker([1200, 600], { icon: CityIcon }).addTo(map)
         .bindPopup('Another simple text message');
 
 
