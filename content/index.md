@@ -212,51 +212,84 @@ title: This is Eldros
 		
 	//Außenbereiche
 	L.marker([872.73, 325.87], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu: ');
+        .bindPopup('Gehört zu: Valoria');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([986.45, 428.22], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Valoria');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([824.00, 482.64], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Tharradur');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([743.59, 915.57], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Marundar');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([606.43, 966.58], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Nebelheim');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([971.13, 981.20], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Stormhall');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([1123.83, 948.71], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Stormhall');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([933.77, 938.15], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Stormhall');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([818.08, 847.77], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Stormhall');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([710.37, 899.22], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Stormhall');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([768.78, 1177.34], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Stormhall');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([1304.85, 728.00], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Faelan');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([1136.72, 1045.59], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Altrea');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([1464.05, 1039.09], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Aurora');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([1486.80, 790.54], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Aurora');
 		
-	L.marker([0, 0], { icon: AußenIcon }).addTo(map)
-        .bindPopup('Gehört zu:');
+	L.marker([1373.89, 1221.85], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Aetheria');
+		
+	L.marker([1265.86, 1588.17], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Shadowfen');
+		
+	L.marker([1224.44, 1623.10], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Aetheria');
+		
+	L.marker([1136.72, 1045.59], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Altrea');
+		
+	L.marker([1110.72, 1625.53], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Silvershore');
+		
+	L.marker([990.62, 1799.14], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Silvershore');
+		
+	L.marker([893.96, 1582.27], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Zalira');
+		
+	L.marker([439.03, 1212.68], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Shadowfen');
+		
+	L.marker([666.79, 1650.96], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Elarian');
+		
+	L.marker([388.55, 1265.62], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Elarian');
+		
+	L.marker([498.12, 1694.05], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Arvendell');
+		
+	L.marker([754.20, 1982.14], { icon: AußenIcon }).addTo(map)
+        .bindPopup('Gehört zu: Arvendell');
 		
 </script>
