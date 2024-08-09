@@ -23,8 +23,6 @@ title: This is Eldros
     var imageUrl = '/Imagefolder/NaturmitGrenzen.png';  // Path to your image
     var imageBounds = [[0, 0], [1800, 2400]];  // Adjust these bounds as needed
 
-    L.imageOverlay(imageUrl, imageBounds).addTo(map);
-
     map.fitBounds(imageBounds);  // Zooms and pans the map to fit the image exactly
 
     // Add a click event to the map
