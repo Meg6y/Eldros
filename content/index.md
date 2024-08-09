@@ -120,25 +120,25 @@ title: This is Eldros
         .bindPopup('Arvendell');
 		
 	//Größere Länder
-    L.marker([1574.63, 830.12], { icon: CountryIcon }).addTo(map)
+    L.marker([1574.63, 830.12], { icon: NationIcon }).addTo(map)
         .bindPopup('Aurora');
 		
-    L.marker([1162.82, 864.24], { icon: CountryIcon }).addTo(map)
+    L.marker([1162.82, 864.24], { icon: NationIcon }).addTo(map)
         .bindPopup('Faelan');
 		
-    L.marker([1056.42, 908.10], { icon: CountryIcon }).addTo(map)
+    L.marker([1056.42, 908.10], { icon: NationIcon }).addTo(map)
         .bindPopup('Altrea');
 		
-    L.marker([724.30, 850.50], { icon: CountryIcon }).addTo(map)
+    L.marker([724.30, 850.50], { icon: NationIcon }).addTo(map)
         .bindPopup('Marundar');
 		
-    L.marker([595.80, 883.00], { icon: CountryIcon }).addTo(map)
+    L.marker([595.80, 883.00], { icon: NationIcon }).addTo(map)
         .bindPopup('Nebelheim');
 		
-    L.marker([837.17, 1521.45], { icon: CountryIcon }).addTo(map)
+    L.marker([837.17, 1521.45], { icon: NationIcon }).addTo(map)
         .bindPopup('Zalira');
 		
-    L.marker([1024.77, 1673.56], { icon: CountryIcon }).addTo(map)
+    L.marker([1024.77, 1673.56], { icon: NationIcon }).addTo(map)
         .bindPopup('Silvershore');
 
 </script>
