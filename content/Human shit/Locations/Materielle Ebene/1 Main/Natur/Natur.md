@@ -1,0 +1,4 @@
+
+| Art | Besonderheiten? | Menschlicher Stuff |
+| --- | --------------- | ------------------ |
+|     |                 |                    |
