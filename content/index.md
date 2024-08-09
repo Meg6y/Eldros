@@ -45,21 +45,21 @@ title: This is Eldros
 	var DynastyIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var NationIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Nationicon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var CountryIcon = L.icon({
 	    iconUrl: '/Imagefolder/IconsMap/Countryicon.png',
 	    iconSize: [30, 30],
-	    iconAnchor: [22, 38],
+	    iconAnchor: [15, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
