@@ -1,0 +1,5 @@
+- [x] buy wood ✅ 2024-08-07
+- [x] buy hinges ✅ 2024-08-07
+- [x] zuschneiden und zusammenfügen ✅ 2024-08-07
+- [x] verzieren ✅ 2024-08-07
+- [ ] [[Papereinlage DM-screen]]
