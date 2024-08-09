@@ -100,13 +100,12 @@ title: This is Eldros
 	
 	
 	//Marker
+	//Dynasties
+    L.marker([980.88, 540.15], { icon: NationIcon }).addTo(map)
+        .bindPopup('Valoria');
 
-    L.marker([1200, 700], { icon: CityIcon }).addTo(map)
-        .bindPopup('This is a simple text popup');
-
-    // Add another marker with simple text popup
-    L.marker([1200, 600], { icon: CityIcon }).addTo(map)
-        .bindPopup('Another simple text message');
+    L.marker([612.11, 787.07], { icon: NationIcon }).addTo(map)
+        .bindPopup('Tharradur');
 
 
 </script>
