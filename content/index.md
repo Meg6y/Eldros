@@ -101,22 +101,22 @@ title: This is Eldros
 	
 	//Marker
 	//Dynasties
-    L.marker([957.32, 546.65], { icon: NationIcon }).addTo(map)
+    L.marker([957.32, 546.65], { icon: DynastyIcon }).addTo(map)
         .bindPopup('Valoria');
 
-    L.marker([612.11, 787.07], { icon: NationIcon }).addTo(map)
+    L.marker([612.11, 787.07], { icon: DynastyIcon }).addTo(map)
         .bindPopup('Tharradur');
 		
-    L.marker([772.94, 990.14], { icon: NationIcon }).addTo(map)
+    L.marker([772.94, 990.14], { icon: DynastyIcon }).addTo(map)
         .bindPopup('Stormhall');
 		
-    L.marker([1142.51, 1504.29], { icon: NationIcon }).addTo(map)
+    L.marker([1142.51, 1504.29], { icon: DynastyIcon }).addTo(map)
         .bindPopup('Aetheria');
 		
-    L.marker([353.00, 1489.67], { icon: NationIcon }).addTo(map)
+    L.marker([353.00, 1489.67], { icon: DynastyIcon }).addTo(map)
         .bindPopup('Elarian');
 		
-    L.marker([514.64, 1916.92], { icon: NationIcon }).addTo(map)
+    L.marker([514.64, 1916.92], { icon: DynastyIcon }).addTo(map)
         .bindPopup('Arvendell');
 		
 	//Größere Länder
