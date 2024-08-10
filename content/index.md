@@ -302,3 +302,13 @@ title: This is Eldros
         .bindPopup('Gehört zu: Arvendell');
 		
 </script>
+
+
+Verwendete Bücher:
+	- Players Handbook
+	- Dungeon Masters Guide
+	- Monster Manual
+	- Tashas Cauldron of Everything
+	- Volos Guide to Monsters
+	- Xanathars Guide to Everything
+	- Mordenkainen presents Monster of the Multiverse
