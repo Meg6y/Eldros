@@ -1,25 +1,24 @@
+---
+tags:
+  - draft
+  - Location
+---
 
-|                     |                            |
-| :------------------ | :------------------------- |
-| **==Eloston==**     |                            |
-| ***Geograpie***     |                            |
-| Natur:              |                            |
-| Teil von:           | [[Elarian]]                |
-| Größe:              | Hauptstadt von [[Elarian]] |
-| ***Gesellschaft***  |                            |
-| Politisches System: |                            |
-| Races:              |                            |
-| Languages:          |                            |
-| Gods:               |                            |
-| Kalendar:           |                            |
+| **==großer Außenbezirk von Aetheria==** | "Der Fisch" |
+| :-------------------------------------- | :---------- |
+| ***Geograpie***                         |             |
+| Natur:                                  |             |
+| Teil von:                               |             |
+| Größe:                                  |             |
+| ***Gesellschaft***                      |             |
+| Politisches System:                     |             |
+| Races:                                  |             |
+| Languages:                              |             |
+| Gods:                                   |             |
+| Kalendar:                               |             |
 ## Ambiance
 ## Besondere Anwohner
-Die Haupt [[Königsfamilie  Elaria]]
-Queen: [[Kylia Elaria]]
-King: [[Iston Elaria]]
-Child 1: f, [[Daena Elaria]]
-Child 2: m, [[Alaion Elaria]]
-Child 3: f, [[Eowyn Elaria]]
+## Städte/Länder/Dynastien
 ## Geographie
 
 ## Industrie und Ressourcen

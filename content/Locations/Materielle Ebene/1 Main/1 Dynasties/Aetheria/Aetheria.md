@@ -1,27 +1,21 @@
 
-|                     |                            |
-| :------------------ | :------------------------- |
-| **==Eloston==**     |                            |
-| ***Geograpie***     |                            |
-| Natur:              |                            |
-| Teil von:           | [[Elarian]]                |
-| Größe:              | Hauptstadt von [[Elarian]] |
-| ***Gesellschaft***  |                            |
-| Politisches System: |                            |
-| Races:              |                            |
-| Languages:          |                            |
-| Gods:               |                            |
-| Kalendar:           |                            |
+|                     |                                                                                     |
+| :------------------ | :---------------------------------------------------------------------------------- |
+| **==Aetheria==**    |                                                                                     |
+| ***Geograpie***     |                                                                                     |
+| Natur:              | [[Aetherianischer Wald]] auf der [[Atheria Insel]]                                  |
+| Beinhaltet:         | [[großer Außenbezirk von Aetheria]] + [[kleines Aetheria]]                          |
+| Größe:              | Sehr großeses Mainland + [[großer Außenbezirk von Aetheria]] + [[kleines Aetheria]] |
+| ***Gesellschaft***  |                                                                                     |
+| Politisches System: | Dikatur von                                                                         |
+| Races:              | Naturverbundene                                                                     |
+| Languages:          |                                                                                     |
+| Gods:               |                                                                                     |
+| Kalendar:           |                                                                                     |
 ## Ambiance
 ## Besondere Anwohner
-Die Haupt [[Königsfamilie  Elaria]]
-Queen: [[Kylia Elaria]]
-King: [[Iston Elaria]]
-Child 1: f, [[Daena Elaria]]
-Child 2: m, [[Alaion Elaria]]
-Child 3: f, [[Eowyn Elaria]]
+## Städte/Länder/Dynastien
 ## Geographie
-
 ## Industrie und Ressourcen
 ## Soziale Struktur
 ## Militär und Verteidigung

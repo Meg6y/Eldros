@@ -1,31 +1,29 @@
 
-|                     |                            |
-| :------------------ | :------------------------- |
-| **==Eloston==**     |                            |
-| ***Geograpie***     |                            |
-| Natur:              |                            |
-| Teil von:           | [[Elarian]]                |
-| Größe:              | Hauptstadt von [[Elarian]] |
-| ***Gesellschaft***  |                            |
-| Politisches System: |                            |
-| Races:              |                            |
-| Languages:          |                            |
-| Gods:               |                            |
-| Kalendar:           |                            |
+|                     |                                    |
+| :------------------ | :--------------------------------- |
+| **==Tharradur==**   |                                    |
+| ***Geograpie***     |                                    |
+| Natur:              |                                    |
+| Beinhaltet:         | Mainland: [[Moradin Höhenzug]],    |
+| Größe:              | Riesig mit Riesigen Außenbereichen |
+| ***Gesellschaft***  |                                    |
+| Politisches System: | Monarchie                          |
+| Races:              | Zwerge                             |
+| Languages:          | common, Dwarvish                   |
+| Gods:               |                                    |
+| Kalendar:           |                                    |
 ## Ambiance
 ## Besondere Anwohner
-Die Haupt [[Königsfamilie  Elaria]]
-Queen: [[Kylia Elaria]]
-King: [[Iston Elaria]]
-Child 1: f, [[Daena Elaria]]
-Child 2: m, [[Alaion Elaria]]
-Child 3: f, [[Eowyn Elaria]]
+## Städte/Länder/Dynastien
 ## Geographie
 
 ## Industrie und Ressourcen
 ## Soziale Struktur
+
 ## Militär und Verteidigung
 ## Verbündete und Feinde, Kriege und Konflikte
+Enge zusammenarbeit mit [[Brückenstadt Aran]] und [[Stormhall]]
+Feinde - Aktiver Versuch [[Silberfels]] einzunehmen.
 ## Die Regierung, Gesetzte und das Rechtssystem
 ## Religion, Tempel
 ## Feste, Zeremonien, Festivals
