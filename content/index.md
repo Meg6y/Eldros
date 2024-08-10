@@ -2,6 +2,8 @@
 title: This is Eldros
 ---
 
+Gesammtüberblick Länder: [[0All - Erde - public]]
+
 <div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
 
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
