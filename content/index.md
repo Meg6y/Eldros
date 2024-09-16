@@ -1,8 +1,7 @@
 ---
 title: This is Eldros
 ---
-
-Gesammtüberblick Länder: [[0All - Erde - public]]
+All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]]
 
 <div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
 

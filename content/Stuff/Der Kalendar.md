@@ -1,0 +1,3 @@
+Eldros benutzt im Großen und ganzen einen Kalender (https://app.fantasy-calendar.com/calendars/deef3192d1c38ff2acc84309a1b7e01f), wenn auch die Namen für Tage und Monate in einzelnen Regionen verändert sind und sogar Jahre sich um viele Zahlen unterscheiden können.
+
+**Grob**: Eldros hat 6 Tage in 5 Wochen in 8 Monaten. Eine Jahreszeit umfasst genau 2 Monate. Die Beiden Monde (Zephara, Thalor) umkreisen Eldros in jeweils 15 bzw 30 Tagen.

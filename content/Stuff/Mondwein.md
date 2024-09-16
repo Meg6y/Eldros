@@ -1,0 +1,1 @@
+Der beste Wein in Eldros. Kriege wurden geführt für diesen Wein, Könige haben gemordet für diesen Wein, die Götter selbst trinken diesen Wein.

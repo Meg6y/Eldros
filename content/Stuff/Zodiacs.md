@@ -1,0 +1,45 @@
+- 01.Moneth - 16.Moneth: Hase
+- 17.Moneth - 02.Duvain: Tunfisch
+- 03.Duvain - 18. Duvain: Eule
+- 19.Duvain - 04. Trithel: Löwe
+- 05.Trithel - 20. Trithel: Ratte
+- 21. Trithel - 06.Quadrin: Katze
+- 07.Quadrin - 22.Quadrin: Delfin
+- 23.Quadrin - 08.Pentholas: Igel
+- 09.Pentholas - 24.Hexilas: Hai
+- 25.Hexilas - 10.Hexilas: Tiger
+- 11.Hexilas - 26.Hexilas: Ameise
+- 27. Hexilas - 12. Septaros: Hund
+- 13. Septaros - 28. Septaros: Lachs
+-  29. Septaros - 14 Octoris: Bär
+- 15. Octoris - 30.Octoris: Schmetterling
+
+Jahre:
+- Owlbear
+- Drache
+- Displacer
+- Aurochs (nicht wirklich magisch)
+- Panther ((same issue))
+- Rothe
+- Barghest ?
+- Yochlol ?
+- Hippogriff
+- Wyvern
+- Bulette
+- Griffon
+- Basilisk
+- Phoenix
+- Manticore
+- Behir
+
+Muster:
+- Weiß
+- Gold
+- Silber
+- Schwarz
+- Lila
+- Rot
+- Orange
+- Grün
+- Blau
+- Bronze
