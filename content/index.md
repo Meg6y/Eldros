@@ -1,6 +1,7 @@
 ---
 title: This is Eldros
 ---
+Allgemeines zur Kampagne könnt ihr hier lesen: [[Die Kampagne]]
 All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]]
 
 <div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
