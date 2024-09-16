@@ -31,8 +31,7 @@ Inspiriert gerne ihre Anbeter mit künstlerischen Eingebungen. Unterstützt bei 
 | Artemia oder was ihr lieb ist hässlich darstellen | Respektiere die Natur so sehr wie sie dich respektiert     |
 |                                                   | Nutze die Natur, wenn du ihr später auch zurückgeben wirst |
 ##### Festivals und Feiertage:
-[[ draft - Ein Gedenktag im Herbst]]
-Ein "[[ draft - Lass die Natur erwecken und diesdas Tag]]" im späten Winter - erstem Frühling
-
+[[Herbstfeuer]]
+Ein "[[Blumenglöckchen Fest]]" im späten Winter - erstem Frühling
 ##### Bekannte Kinder:
 [[Artemias Kinder]] 

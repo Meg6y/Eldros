@@ -29,4 +29,4 @@ Auch Kinder können einen solchen Dienst ablegen, freiwillig oder gezwungen.
 | ------- | -------- |
 |         |          |
 ### Festivals und Feste
-[[draft - StärkeSegnung]] - nur von Lokarions intensiven Anhängern gefeiert
+[[Stärkesegnung]] - nur von Lokarions intensiven Anhängern gefeiert

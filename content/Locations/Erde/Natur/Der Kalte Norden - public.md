@@ -1,4 +1,4 @@
-#Location [[Der Kalte Norden]]
+#Location [[Locations/Materielle Ebene/1 Main/Natur/Kontinente/Der Kalte Norden]]
 
 | Name:           | Der Kalte Norden                                                                                          |
 | --------------- | --------------------------------------------------------------------------------------------------------- |

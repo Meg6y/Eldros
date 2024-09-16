@@ -2,7 +2,7 @@
 |                     |                                      |
 | ------------------- | ------------------------------------ |
 | Was wird gefeiert?  | Ladyre - um ihr Gemüt zu besänftigen |
-| Wann wird gefeiert? |                                      |
+| Wann wird gefeiert? | 01.03.                               |
 | Wem gewidmet?       | [[Ladyre - public]]                  |
 | Wer "feiert"?       | Eigentlich alle                      |
 ## Bräuche:

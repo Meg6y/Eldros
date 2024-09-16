@@ -27,4 +27,4 @@ Friede ist für sie das größte. Sie kämpfen nicht, verletzten nicht, leben vo
 | ------- | -------- |
 |         |          |
 ### Festivals und Feste
-#platzhalter
+[[Fest der Gesundheit]] - bittet um Gesundheit in den Wintermonaten

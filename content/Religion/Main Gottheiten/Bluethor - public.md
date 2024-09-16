@@ -27,5 +27,5 @@ Bluethors Priester leben oft in ihren eigenen Häusern mit ihren eigenen Familie
 |         | Der Tod ist so wichtig wie das Leben |
 |         | Fürche das Ende nicht                |
 ### Festivals und Feste
-[[draft- der Ruhetag]] - Gedenktag für alle Verstorbenen
-[[Draft - Tag der Balance]] - eher unbedeutenderer Feiertag - urprünglich Danktag für Bluethor, dass er die Balance in Eldros erhällt (Siehe [[Die Entstehungsgeschichte]])
+[[Ruhetag]] - Gedenktag für alle Verstorbenen
+[[Tag der Balance]] - eher unbedeutenderer Feiertag - urprünglich Danktag für Bluethor, dass er die Balance in Eldros erhällt (Siehe [[Die Entstehungsgeschichte]])

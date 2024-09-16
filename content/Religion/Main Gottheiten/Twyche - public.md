@@ -30,7 +30,7 @@ Es gibt keine Vorschriften oder Einschränkungen zum Aussehen oder Kleiden der P
 | -       | -        |
 ##### Festivals und Feiertage: 
 Wird normalerweise bei Hochzeiten angebetet, aber keine eigene "Festivals oder Feiertage"
-[[Draft- FeierFestGelage]]
+[[FeierFestGelage]]
 ##### Bekannte Kinder:
 Sie erschuf viele viele Demigötter mit vielen Personen, aber auch göttliche Kindheiten:
 [[Twyches Kinder]] 

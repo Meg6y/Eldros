@@ -1,21 +1,8 @@
-#Location #Natur [[Niemandsland 2]]
+## Bewohner
+Beherbergt viele viele Völker, Wesen und Lebende, man munkelt von Drachen, Goliaths, Drachengeborenen, Kenku, Firbolg und sogar vereinzelte Giths!
 
-| Kontinent:  | [[Altioremtria - public]] |                           |
-| ----------- | ------------------------- | ------------------------- |
-| Beinhaltet: | Name:                     | Ladyre Felsmassiv + Berge |
-|             | Geographie:               |                           |
-|             | Bekannte Völker?:         |                           |
-|             | Bekannte Wesen?:          |                           |
-|             | Gerüchte:                 |                           |
-|             |                           |                           |
-| Beinhaltet: | Name:                     | Vulkan + Fluss aus Asche  |
-|             | Geographie:               |                           |
-|             | Bekannte Völker?:         |                           |
-|             | Bekannte Wesen?:          |                           |
-|             | Gerüchte:                 |                           |
-|             |                           |                           |
-| Beinhaltet: | Name:                     |                           |
-|             | Geographie:               |                           |
-|             | Bekannte Völker?:         |                           |
-|             | Bekannte Wesen?:          |                           |
-|             | Gerüchte:                 |                           |
+## Natur
+Tiefe, dunkle Wälder, kaltes Klima, beschneite Berge und Bergketten.
+Viele einzelne Flüsse und einzelne Berge.
+Beinhaltet sogar eine Eiswüste (Shunarische Eiswüste).
+Ebenfalls besonders ist ein gigantischer Vulkan mit einem von ihm ausgehenden Fluss aus Asche (Aschestrom), ein unerklärliches Naturphänomen.

@@ -23,4 +23,4 @@ Oft einfache Reisende, die auf ihren Reisen alle Orte, schilder, personen oder W
 | ------- | --------------------------------- |
 |         | Schütze, wenn du Schutz erwartest |
 ### Festivals und Feste
-keine
+[[Schutztag]] - Bittet um Schutz, Segnung aller Häuser und Boote, Personen etc-

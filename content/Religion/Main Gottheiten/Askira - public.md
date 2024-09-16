@@ -24,7 +24,7 @@ Askiras Diener sind in einsamkeit und ihrer forschung gewidmete Wesen, die sich 
 | ------- | -------- |
 |         |          |
 ### Festivals und Feste
-[[Draft - Fest des Wissens]] - recht unbedeutendes Fest, was von nur wenigen gefeiert wird.
+[[Fest des Wissens]] - recht unbedeutendes Fest, was von nur wenigen gefeiert wird.
 
 ## Bekannte Kinder:
 [[Askiras Kinder]]
