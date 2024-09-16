@@ -1,6 +1,6 @@
 Einmal gab es nichts und alles. Alles - Die Ebenen und Welten, die Götter und die Natur. Und nichts - Eldros existierte nicht - nicht in der Zeit, nicht auf der Materiellen Ebene.
 
-Zwei göttliche Geschwister, [[Ladyre - public]] und [[Bluethor - public]], waren unruhig geworden in den Welten, die sie bewohnten. Sie waren zwar mächtig, aber fühlten sich abgetrennt von den Anderen, sehnten sich nach etwas Eigenem - einer Welt, die sie selbst erschaffen würden. Sie stellten sich einen Ort der vollkommenen Harmonie vor, in dem jedes Leben denselben Wert hätte und in dem Mord und Diebstahl nicht existieren, weil es an nichts mangelt.
+Zwei göttliche Geschwister, [[Ladyre]] und [[Bluethor]], waren unruhig geworden in den Welten, die sie bewohnten. Sie waren zwar mächtig, aber fühlten sich abgetrennt von den Anderen, sehnten sich nach etwas Eigenem - einer Welt, die sie selbst erschaffen würden. Sie stellten sich einen Ort der vollkommenen Harmonie vor, in dem jedes Leben denselben Wert hätte und in dem Mord und Diebstahl nicht existieren, weil es an nichts mangelt.
 
 So schufen sie Eldros aus der Dunkelheit, eine Welt des ewigen Friedens, unberührt von den Schatten anderer Götter und den Feuern der Höllen. Sie schufen ein Paradies. Diese Welt war ihr Zufluchtsort, und sie schworen, es mit ihrem Leben zu schützen. Auf Eldros lebten die Wesen in ewiger Glücksseeligkeit, frei von Leid und Konflikten, ohne das geringste Verständnis von negativen Emotionen. Die Tiere lebten in Harmonie, ernährt von der Natur, ohne den Kampf ums Überleben, einfach nur lebend.
 

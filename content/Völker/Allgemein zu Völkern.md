@@ -1,8 +1,8 @@
 
 | Ort     | Name                    | Rassen       | Was tun sie                          |
 | ------- | ----------------------- | ------------ | ------------------------------------ |
-| Reisend | [[Mythglen - public]]   | gemischt     | Berühmte Musiker/Künster/Entertainer |
-| Reisend | [[Astralan - public]]   | #platzhalter | Schwarzmarkt/Handel                  |
-| Reisend | [[Emberhall - public]]  | #platzhalter | Händler                              |
-| Reisend | [[Goldwharf - public]]  | #platzhalter | Händler                              |
-| Reisend | [[Aetherfall - public]] | #platzhalter | Stern-fänger                         |
+| Reisend | [[Mythglen]]   | gemischt     | Berühmte Musiker/Künster/Entertainer |
+| Reisend | [[Astralan]]   | #platzhalter | Schwarzmarkt/Handel                  |
+| Reisend | [[Emberhall]]  | #platzhalter | Händler                              |
+| Reisend | [[Goldwharf]]  | #platzhalter | Händler                              |
+| Reisend | [[Aetherfall]] | #platzhalter | Stern-fänger                         |

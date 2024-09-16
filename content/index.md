@@ -1,8 +1,8 @@
 ---
 title: This is Eldros
 ---
-Allgemeines zur Kampagne könnt ihr hier lesen: [[Die Kampagne]]
-All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]]
+Allgemeines zur Kampagne könnt ihr hier lesen: [[Die Kampagne]].
+All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
 
 <div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
 
@@ -307,10 +307,10 @@ All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]]
 
 
 Verwendete Bücher:
-	- Players Handbook
-	- Dungeon Masters Guide
-	- Monster Manual
-	- Tashas Cauldron of Everything
-	- Volos Guide to Monsters
-	- Xanathars Guide to Everything
-	- Mordenkainen presents Monster of the Multiverse
+- Players Handbook
+- Dungeon Masters Guide
+- Monster Manual
+- Tashas Cauldron of Everything
+- Volos Guide to Monsters
+- Xanathars Guide to Everything
+- Mordenkainen presents Monster of the Multiverse

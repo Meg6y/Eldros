@@ -11,20 +11,20 @@ Aber auch gefährliche Rassen hausen hier, ernähren sich von Händlern und Fisc
 
 | Size  | Name                         | Bewohner                | Symbol | Notes? |
 | ----- | ---------------------------- | ----------------------- | ------ | ------ |
-| mid   | [[Azurebloom - public]]      | Triton                  |        |        |
-| mid   | [[Stormwatch - public]]      | Triton                  |        |        |
-| mid   | [[Coral Weavers - public]]   | Sea Elfes, Water Genasi |        |        |
+| mid   | [[Azurebloom]]      | Triton                  |        |        |
+| mid   | [[Stormwatch]]      | Triton                  |        |        |
+| mid   | [[Coral Weavers]]   | Sea Elfes, Water Genasi |        |        |
 |       |                              |                         |        |        |
-| klein | [[Tritonspire - public]]     | Triton                  |        |        |
-| klein | [[Oceanus Bastion - public]] | Triton                  |        |        |
-| klein | [[Wavecrest - public]]       | Triton                  |        |        |
-| klein | [[Tidegrove - public]]       | gemischt                |        |        |
-| klein | [[Coralhold - public]]       | Sea Elfes               |        |        |
+| klein | [[Tritonspire]]     | Triton                  |        |        |
+| klein | [[Oceanus Bastion]] | Triton                  |        |        |
+| klein | [[Wavecrest]]       | Triton                  |        |        |
+| klein | [[Tidegrove]]       | gemischt                |        |        |
+| klein | [[Coralhold]]       | Sea Elfes               |        |        |
 |       |                              |                         |        |        |
-| Stadt | [[Aqualith - public]]        | Triton                  |        |        |
-| Stadt | [[Saltwind - public]]        | Triton                  |        |        |
-| Stadt | [[Elunethar - public]]       | Triton                  |        |        |
-| Stadt | [[Tempestreach - public]]    | Triton                  |        |        |
-| Stadt | [[Seaglimmer - public]]      | Sea Elfes               |        |        |
-| Stadt | [[Aquamaris - public]]       | Sea Elfes               |        |        |
+| Stadt | [[Aqualith]]        | Triton                  |        |        |
+| Stadt | [[Saltwind]]        | Triton                  |        |        |
+| Stadt | [[Elunethar]]       | Triton                  |        |        |
+| Stadt | [[Tempestreach]]    | Triton                  |        |        |
+| Stadt | [[Seaglimmer]]      | Sea Elfes               |        |        |
+| Stadt | [[Aquamaris]]       | Sea Elfes               |        |        |
 ![[20240815_165805 1.jpg]]

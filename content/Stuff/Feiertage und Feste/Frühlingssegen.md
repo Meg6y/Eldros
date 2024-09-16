@@ -4,7 +4,7 @@
 | ------------------- | ---------------------------------------- |
 | Was wird gefeiert?  | Es wird um ein Erntereiches Jahr gebeten |
 | Wann wird gefeiert? | 19.01. - 19. Moneth                      |
-| Wem gewidmet?       | [[Basilor - public]]                     |
+| Wem gewidmet?       | [[Basilor]]                     |
 | Wer feiert?         | Bauern, Landwirte, Gärtner               |
 ## Bräuche:
 **Segnung** (von einem jährlich neu ausgewähltem Bauern, sgn. "Ernteschützer") eines großen Troges Wasser, aus dem dann kleine Violen verkaut werden, die die Bauer über ihre Felder tröpfeln.

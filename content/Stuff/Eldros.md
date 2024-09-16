@@ -1,7 +1,7 @@
 Die Welt heißt **Eldros**.
 
 ## Orte
-Nicht nur die Oberfläche ([[Oberfläche - Politik - public]]), sondern auch die Wasser([[Wasser - Politik - allgemein]]), die Lüfte ([[Himmel  - Politik - allgemein]]) und die Erde selbst ([[Underdark - public]]) ist belebt, das eine mehr als das andere.
+Nicht nur die Oberfläche ([[Oberfläche - Politik]]), sondern auch die Wasser([[Wasser - Politik - allgemein]]), die Lüfte ([[Himmel  - Politik - allgemein]]) und die Erde selbst ([[Underdark]]) ist belebt, das eine mehr als das andere.
 ##### Soziales:
 - Dadurch das alle Menschen gleichzeitig erschaffen wurden (siehe [[Die Entstehungsgeschichte]]), ist die Hautfarbe der Menschen so zufällig und unbedeutend wie ihre Augen oder Haarfarbe. Deshalb gibt es eigentlich nirgends auf Eldros Rassismus unter Menschen. (basierend auf Hautfarbe zumindest)
 - Homosexualität ist in eigentlich allen Teilen Eldros ein Teil des Normalen
@@ -19,7 +19,7 @@ Elros hat:
 ### [[Die Entstehungsgeschichte]]
 Einmal gab es nichts und alles. Alles - Die Ebenen und Welten, die Götter und die Natur. Und nichts - Eldros existierte nicht - weder in der Zeit noch auf der Materiellen Ebene.
 
-Zwei Geschwister, [[Ladyre - public]] und [[Bluethor - public]], waren unruhig geworden in den Welten, die sie bewohnten. Sie waren zwar Götter, aber sie fühlten sich abgetrennt von den anderen, sehnten sich nach etwas Eigenem - einer Welt, die sie selbst erschaffen würden. Sie stellten sich einen Ort der vollkommenen Harmonie vor, in dem jedes Leben denselben Wert hätte und in dem Mord und Diebstahl nicht existieren, weil es an nichts mangelt.
+Zwei Geschwister, [[Ladyre]] und [[Bluethor]], waren unruhig geworden in den Welten, die sie bewohnten. Sie waren zwar Götter, aber sie fühlten sich abgetrennt von den anderen, sehnten sich nach etwas Eigenem - einer Welt, die sie selbst erschaffen würden. Sie stellten sich einen Ort der vollkommenen Harmonie vor, in dem jedes Leben denselben Wert hätte und in dem Mord und Diebstahl nicht existieren, weil es an nichts mangelt.
 
 So erschufen sie Eldros, eine Welt des ewigen Friedens, unberührt von den Schatten anderer Götter und den Feuern der Höllen. Diese Welt war ihr Zufluchtsort, und sie schworen, es mit ihrem Leben zu schützen. Auf Eldros lebten die Humanoiden in ewiger Glücksseeligkeit, frei von Leid und Konflikten, ohne das geringste Verständnis von negativen Emotionen. Die Tiere lebten in Harmonie, ernährt von der Natur, ohne den Kampf ums Überleben, sondern einfach nur lebend.
 

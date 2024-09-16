@@ -3,7 +3,7 @@
 | ------------------- | ------------------------------------------------------------------ |
 | Was wird gefeiert?  | Dank für die Ernte dieses Jahres                                   |
 | Wann wird gefeiert? | 08.06.                                                             |
-| Wem gewidmet?       | [[Apollor - public]]                                               |
+| Wem gewidmet?       | [[Apollor]]                                               |
 | Wer feiert?         | Vor allem Landwirte und jehne, die von dem Ertrag der Natur leben. |
 ## Bräuche:
 Deko - es wird mit Buntem Gemüse geschmückt,, Kürbisse, Weizen etc
