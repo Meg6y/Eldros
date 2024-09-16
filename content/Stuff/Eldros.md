@@ -1,19 +1,18 @@
 Die Welt heißt **Eldros**.
 
 ## Orte
-Nicht nur die [Oberfläche](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FLocations%2FErde%2FPolitik%20-%20public), sondern auch die [Wasser](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FLocations%2FWasser%2F0%20Wasser%20-%20allgemein), die [Lüfte](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FLocations%2FHimmel%2F0%20Der%20Himmel%20-%20allgemein) und die [Erde](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FLocations%2FDunkelheit%2F0%20Underdark%20-%20public) selbst ist belebt, das eine mehr als das andere.
+Nicht nur die Oberfläche ([[Oberfläche - Politik - public]]), sondern auch die Wasser([[Wasser - Politik - allgemein]]), die Lüfte ([[Himmel  - Politik - allgemein]]) und die Erde selbst ([[Underdark - public]]) ist belebt, das eine mehr als das andere.
 ##### Soziales:
 - Dadurch das alle Menschen gleichzeitig erschaffen wurden (siehe [[Die Entstehungsgeschichte]]), ist die Hautfarbe der Menschen so zufällig und unbedeutend wie ihre Augen oder Haarfarbe. Deshalb gibt es eigentlich nirgends auf Eldros Rassismus unter Menschen. (basierend auf Hautfarbe zumindest)
 - Homosexualität ist in eigentlich allen Teilen Eldros ein Teil des Normalen
 - Auf Eldros gibt es neben männlich, weiblich auch selblich (auf deutsch wäre das einfach alles was nicht m oder w ist), und fluid. Der Wechsel zwischen den Geschlechtern ist nicht nur den Göttern vorenthalten, sondern auch den Erdlichen gestattet, nur selten haben Einzelne ein Problem mit dem solchen
 ## Weitere Merkmale
 Elros hat:
-- [Zwei Monde](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FStuff%2FDer_Nachthimmel)
-- Einen eigenen [Kalender](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FStuff%2FDer%20Kalendar)
+- Zwei Monde (siehe [[Der_Nachthimmel]])
+- Einen eigenen Kalender (siehe [[Der Kalendar]])
 - Entsprechend bisschen angepasste [[Lebenserwartungen]]
-- Eigene [Gottheiten](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FReligion%2FReligion)
-- [Politische Strukturen](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FLocations%2FErde%2FPolitik%20-%20public)
-- [Völker](obsidian://open?vault=DnD_Kampagne&file=X%20Public%20notes%2FV%C3%B6lker%2FAllgemein%20zu%20V%C3%B6lkern)
+- Eigene Gottheiten (siehe [[Religion]])
+- Völker (siehe [[Allgemein zu Völkern]])
 - [[Feiertage]]
 - [[Feste und Veranstaltungen]]
 - [[Sagen und Märchen]]
