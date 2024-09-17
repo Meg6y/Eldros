@@ -45,7 +45,7 @@ All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
 	
     //Markericons:
 
-	var DynastyIcon = L.icon({
+	var DynastyIcon = L.divIcon({
 	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [60, 60],
 	    iconAnchor: [30, 30],
