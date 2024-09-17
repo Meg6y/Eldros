@@ -1,9 +1,9 @@
 [[Religion]] 
 Teil des main Pantheon
 
-| [[Alignments]]: | Domains:                          | kurze Beschreibung                                                                                   | Symbol                     |
-| --------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------- |
-| True Neutral    | Nature, Forge, Knowledge, Tempest | Jagt, Waldleben, Überleben, Kunst der Natur, Kreativität inspiriert von natur und Hamonie mit dieser | Baum mit kunstvoller Krone |
+| Alignments:  | Domains:                          | kurze Beschreibung                                                                                   | Symbol                     |
+| ------------ | --------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------- |
+| True Neutral | Nature, Forge, Knowledge, Tempest | Jagt, Waldleben, Überleben, Kunst der Natur, Kreativität inspiriert von natur und Hamonie mit dieser | Baum mit kunstvoller Krone |
 ##### Symbolik:
 Baum mit kunstvoller Krone
 ##### Orte/Aussehen der Tempel:
@@ -31,7 +31,7 @@ Inspiriert gerne ihre Anbeter mit künstlerischen Eingebungen. Unterstützt bei 
 | Artemia oder was ihr lieb ist hässlich darstellen | Respektiere die Natur so sehr wie sie dich respektiert     |
 |                                                   | Nutze die Natur, wenn du ihr später auch zurückgeben wirst |
 ##### Festivals und Feiertage:
-[[Herbstfeuer]]
 Ein "[[Blumenglöckchen Fest]]" im späten Winter - erstem Frühling
+[[Herbstfeuer]]
 ##### Bekannte Kinder:
 [[Artemias Kinder]] 
