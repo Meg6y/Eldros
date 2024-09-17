@@ -6,8 +6,8 @@ All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
 
 <style>
     .leaflet-marker-icon {
-        image-rendering: auto; /* Prevent pixelation when zooming */
-        transform: translateZ(0); /* Keep icon size constant */
+        image-rendering: auto;
+        transform: none;
     }
 </style>
 
@@ -52,7 +52,7 @@ All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
 	
     //Markericons:
 
-	var DynastyIcon = L.Icon({
+	var DynastyIcon = new L.Icon({
 	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [60, 60],
 	    iconAnchor: [30, 30],
