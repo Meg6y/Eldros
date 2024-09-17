@@ -4,6 +4,35 @@ title: This is Eldros
 Allgemeines zur Kampagne könnt ihr hier lesen: [[Die Kampagne]].
 All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Map</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin=""/>
+
+    <style>
+        /* Add the CSS to keep marker icons at a fixed size */
+        .leaflet-marker-icon {
+            image-rendering: auto; /* Prevent pixelation when zooming */
+            transform: translateZ(0); /* Keep icon size constant */
+        }
+
+        #map { 
+            width: 100%; 
+            height: 600px; 
+            z-index: 0;
+        }
+    </style>
+</head>
+<body>
+
+
 <div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
 
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -45,9 +74,8 @@ All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
 	
     //Markericons:
 
-	var DynastyIcon = L.divIcon({
-		className: 'DynastyIcon',
-	    iconUrl: '<img src="/Imagefolder/IconsMap/Dynastyicon.png" style="width: 60px; height: 60px;">',
+	var DynastyIcon = L.Icon({
+	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [60, 60],
 	    iconAnchor: [30, 30],
 	    popupAnchor: [-3, -38]
