@@ -1,4 +1,4 @@
-#Location [[Tritonspire]]
+#Location
 
 | Name:              | Tritonspire, kleinere Wasserstruktur                    |
 | ------------------ | ------------------------------------------------------- |

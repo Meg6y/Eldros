@@ -1,4 +1,4 @@
-#Location [[Tidegrove]]
+#Location
 
 | Name:              | Tidegrove, kleinere Wasserstruktur                      |
 | ------------------ | ------------------------------------------------------- |

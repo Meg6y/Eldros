@@ -1,4 +1,4 @@
-#Location [[Wavecrest]]
+#Location
 
 | Name:              | Wavecrest, kleinere Wasserstruktur                      |
 | ------------------ | ------------------------------------------------------- |

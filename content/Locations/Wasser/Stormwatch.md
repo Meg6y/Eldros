@@ -1,4 +1,4 @@
-#Location [[Stormwatch]]
+#Location
 
 | Name:              | Stormwatch, größere Wasserstruktur                      |
 | ------------------ | ------------------------------------------------------- |

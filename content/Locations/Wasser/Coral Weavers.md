@@ -1,4 +1,4 @@
-#Location [[Coral weavers]]
+#Location
 
 | Name:              | Coral Weaves, größere Wasserstruktur             |
 | ------------------ | ------------------------------------------------ |

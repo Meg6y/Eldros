@@ -1,4 +1,4 @@
-#Location [[Silberfels]]
+#Location
 
 | Name:               | Silberfels                                                                                                                           |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -15,3 +15,6 @@
 |                     |                                                                                                                                      |
 | Symbol/Flagge:      | Glitzernder Fels mit steckender Spitzhacke auf schwarz                                                                               |
 ### Notes:
+### Verbündete und Feinde, Kriege und Konflikte
+Krieg - wird aktiv von [[Tharradur]] begrenzt und verkleinert, weil sie die Berge dort für sich möchten.
+Bitten an [[Valoria]] sie zu unterstützen werden ignoriert.

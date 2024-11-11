@@ -1,4 +1,4 @@
-#Location [[Aquamaris]]
+#Location
 
 | Name:              | Aquamaris, Unterwasserstadt |
 | ------------------ | --------------------------- |

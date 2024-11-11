@@ -1,4 +1,4 @@
-#Location [[Aqualith]]
+#Location
 
 | Name:              | Aqualith, Unterwasserstadt                              |
 | ------------------ | ------------------------------------------------------- |

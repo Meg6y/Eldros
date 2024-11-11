@@ -1,4 +1,4 @@
-#Location [[Azurebloom]]
+#Location
 
 | Name:              | Elunethar, Unterwasserstadt                             |
 | ------------------ | ------------------------------------------------------- |

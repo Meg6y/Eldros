@@ -1,4 +1,4 @@
-#Location [[Bellagrim]]
+#Location
 
 | Name:               | Bellagrim, kleineres Land                    |
 | ------------------- | -------------------------------------------- |

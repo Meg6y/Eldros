@@ -1,4 +1,4 @@
-#Location [[Tolelarian]]
+#Location
 
 | Name:       | Tolelarian           |
 | ----------- | -------------------- |

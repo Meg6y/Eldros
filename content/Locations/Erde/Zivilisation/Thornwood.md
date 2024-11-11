@@ -1,4 +1,4 @@
-#Location [[Thornwood]]
+#Location
 
 | Name:               | Thornwood, kleineres Land                                  |
 | ------------------- | ---------------------------------------------------------- |

@@ -1,7 +1,7 @@
 Die Welt heißt **Eldros**.
 
 ## Orte
-Nicht nur die Oberfläche ([[Oberfläche - Politik]]), sondern auch die Wasser([[Wasser - Politik - allgemein]]), die Lüfte ([[Himmel  - Politik - allgemein]]) und die Erde selbst ([[Underdark]]) ist belebt, das eine mehr als das andere.
+Nicht nur die Oberfläche ([[Erde - Politik]]), sondern auch die Wasser([[Wasser - Politik]]), die Lüfte ([[Himmel  - Politik]]) und die Erde selbst ([[Underdark]]) ist belebt, das eine mehr als das andere.
 ##### Soziales:
 - Dadurch das alle Menschen gleichzeitig erschaffen wurden (siehe [[Die Entstehungsgeschichte]]), ist die Hautfarbe der Menschen so zufällig und unbedeutend wie ihre Augen oder Haarfarbe. Deshalb gibt es eigentlich nirgends auf Eldros Rassismus unter Menschen. (basierend auf Hautfarbe zumindest)
 - Homosexualität ist in eigentlich allen Teilen Eldros ein Teil des Normalen

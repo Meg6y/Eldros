@@ -1,4 +1,4 @@
-#Location [[Tempestreach]]
+#Location
 
 | Name:              | Tempestreach, Unterwasserstadt                          |
 | ------------------ | ------------------------------------------------------- |

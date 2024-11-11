@@ -1,4 +1,4 @@
-#Location [[Seaglimmer]]
+#Location
 
 | Name:              | Seaglimmer, Unterwasserstadt |
 | ------------------ | ---------------------------- |

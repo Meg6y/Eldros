@@ -1,4 +1,4 @@
-#Location [[Oceanus Bastion]]
+#Location
 
 | Name:              | Oceanus Bastion, kleinere Wasserstruktur                |
 | ------------------ | ------------------------------------------------------- |

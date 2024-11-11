@@ -1,4 +1,4 @@
-#Location [[Silvervale]]
+#Location
 
 | Name:               | Silvervale, kleineres Land           |
 | ------------------- | ------------------------------------ |

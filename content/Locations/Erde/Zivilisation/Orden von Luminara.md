@@ -1,4 +1,4 @@
-#Location [[Orden von Luminara]]
+#Location
 
 | Name:               | Orden von Luminara, kleines Land                                                                                                                                    |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 |                     |                                                                                                                                                                     |
 | Sagen/Gerüchte:     | Angeblich übernachtet [[Remilia]] selbst immer wieder in ihren Tempeln hier                                                                                |
 |                     |                                                                                                                                                                     |
-| Bekannte Bewohner?: | Brühmte Heilerin - Aasimar [[romme andrisi]]                                                                                                                        |
+| Bekannte Bewohner?: | Brühmte Heilerin - Aasimar [[Romme Andrisi]]                                                                                                                        |
 |                     |                                                                                                                                                                     |
 | Symbol/Flagge:      | Silberner Mond auf Blau                                                                                                                                             |
 ### Notes:

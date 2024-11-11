@@ -1,4 +1,4 @@
-#NPC [[NPC Template]]
+#NPC
 
 | Name:                        | Cutter Fearmer        |
 | ---------------------------- | --------------------- |

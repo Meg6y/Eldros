@@ -1,4 +1,4 @@
-#Location [[Galathar]]
+#Location
 
 | Name:               | Galathar, kleines Land                                                                                                                                                             |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,5 +14,7 @@
 |                     |                                                                                                                                                                                    |
 | Symbol/Flagge:      | Zahnrad auf Silber                                                                                                                                                                 |
 ### Notes:
+### Verbündete und Feinde, Kriege und Konflikte
+Wird immer wieder von  Kobolds aus der [[Galathar Bergkette]] Berg attackiert, die versuchen Ihre Technologien zu stehlen
 
 

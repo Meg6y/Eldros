@@ -1,4 +1,4 @@
-#Location [[Coralhold]]
+#Location
 
 | Name:              | Coralhold, kleinere Wasserstruktur                        |
 | ------------------ | --------------------------------------------------------- |

@@ -1,4 +1,4 @@
-#Location [[Saltwind]]
+#Location
 
 | Name:              | Saltwind, Unterwasserstadt                              |
 | ------------------ | ------------------------------------------------------- |
