@@ -1,4 +1,8 @@
 Neben den verschieden großen Ländern ist vieles von Eladros Festland noch "unerforscht" - aber trotzdem belebt. Von wilden Tieren, über organisierte friedliche Völkern bis zu brutalen Gruppen gibt es in der Wildnis alles.
+Die Weltkarten:
+- [[Naturweltkarte]]
+- [[Allgemeine Weltkarte]]
+- [[Politikweltkarte]]
 
 | Size     | Name                            | Bewohner (vor allem, aber nicht nur)                                                        | Warum mächtig?                                                           | Symbol                                                       |
 | -------- | ------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -47,6 +51,6 @@ Neben den verschieden großen Ländern ist vieles von Eladros Festland noch "une
 |          |                                 |                                                                                             |                                                                          |                                                              |
 | Isolete  | [[Arvendell]]          | gemischt                                                                                    | Komplett selbständig                                                     | Roter Knick auf Schwarz                                      |
 
-![[politikweltmap.png]]
-  ![[Naturweltmap.png]]![[NaturmitGrenzen.png]]
+![[politikweltmap.png|800]]
+  ![[Naturweltmap.png|800]]![[NaturmitGrenzen.png|800]]
 ![[20240815_165805.jpg]]
