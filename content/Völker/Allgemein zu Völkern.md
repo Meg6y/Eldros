@@ -1,5 +1,5 @@
 
-| Ort     | Name                    | Rassen       | Was tun sie                          |
+| Ort     | Name                    | Spezies      | Was tun sie                          |
 | ------- | ----------------------- | ------------ | ------------------------------------ |
 | Reisend | [[Mythglen]]   | gemischt     | Berühmte Musiker/Künster/Entertainer |
 | Reisend | [[Astralan]]   | #platzhalter | Schwarzmarkt/Handel                  |

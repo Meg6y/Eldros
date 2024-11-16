@@ -2,7 +2,7 @@
 | Name:            | Iston Elaria    | Wohnort:           | [[Elarian]], Hauptstadt                                                                       |
 | ---------------- | --------------- | ------------------ | --------------------------------------------------------------------------------------------- |
 | Geschlecht:      | m               | Aussehen:          |                                                                                               |
-| Rasse:           | Wood Elf        | Alter:             | 500                                                                                           |
+| Spezies:         | Wood Elf        | Alter:             | 500                                                                                           |
 | Klasse:          |                 | Position/Beruf:    | König                                                                                         |
 |                  |                 |                    |                                                                                               |
 | Hauptgott:       | Askira          | Interessen:        | Musik, Kunst, Freude                                                                          |

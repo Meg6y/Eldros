@@ -1,5 +1,5 @@
 Allgemeines zur Kampagne könnt ihr hier lesen: [[Die Kampagne]].
-All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
+All Hinweise und Besonderheiten der Welt findet ihr hier: [[Stuff/Eldros]].
 
 <div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
 
@@ -20,7 +20,7 @@ All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
         zoomAnimation: true  // Enable smooth zoom transitions
     }).setView([0, 0], 0);
 
-    var imageUrl = '/Imagefolder/NaturmitGrenzen.png';  // Path to your image
+    var imageUrl = '/00Imagefolder/NaturmitGrenzen.png';  // Path to your image
     var imageBounds = [[0, 0], [1800, 2400]];  // Adjust these bounds as needed
 
     L.imageOverlay(imageUrl, imageBounds).addTo(map);
@@ -43,56 +43,56 @@ All Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
     //Markericons:
 
 	var DynastyIcon = new L.Icon({
-	    iconUrl: '/Imagefolder/IconsMap/Dynastyicon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/Dynastyicon.png',
 	    iconSize: [60, 60],
 	    iconAnchor: [30, 30],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var NationIcon = L.icon({
-	    iconUrl: '/Imagefolder/IconsMap/Nationicon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/Nationicon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [25, 25],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var CountryIcon = L.icon({
-	    iconUrl: '/Imagefolder/IconsMap/Countryicon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/Countryicon.png',
 	    iconSize: [40, 40],
 	    iconAnchor: [20, 20],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var CityIcon = L.icon({
-	    iconUrl: '/Imagefolder/IconsMap/Cityicon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/Cityicon.png',
 	    iconSize: [30, 30],
 	    iconAnchor: [15, 15],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var AußenIcon = L.icon({
-	    iconUrl: '/Imagefolder/IconsMap/Außenbereichicon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/Außenbereichicon.png',
 	    iconSize: [20, 20],
 	    iconAnchor: [10, 10],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var ContinentIcon = L.icon({
-	    iconUrl: '/Imagefolder/IconsMap/continenticon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/continenticon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [25, 25],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var IslandIcon = L.icon({
-	    iconUrl: '/Imagefolder/IconsMap/Islandicon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/Islandicon.png',
 	    iconSize: [50, 50],
 	    iconAnchor: [25, 25],
 	    popupAnchor: [-3, -38]
 	});
 	
 	var WildIcon = L.icon({
-	    iconUrl: '/Imagefolder/IconsMap/Wildnissicon.png',
+	    iconUrl: '/00Imagefolder/IconsMap/Wildnissicon.png',
 	    iconSize: [35, 35],
 	    iconAnchor: [17, 17],
 	    popupAnchor: [-3, -38]

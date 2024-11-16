@@ -2,7 +2,7 @@
 | Name:            | Kylia Elaria         | Wohnort:           | [[Elarian]] Hauptstadt                                |
 | ---------------- | -------------------- | ------------------ | ----------------------------------------------------- |
 | Geschlecht:      | w                    | Aussehen:          |                                                       |
-| Rasse:           | Wood Elf             | Alter:             | 580                                                   |
+| Spezies:         | Wood Elf             | Alter:             | 580                                                   |
 | Klasse:          | Druide               | Position/Beruf:    | Königin                                               |
 |                  |                      |                    |                                                       |
 | Hauptgott:       | Askira               | Interessen:        | Einzigartiges Wissen, Besondere Tierwesen             |

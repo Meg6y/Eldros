@@ -3,11 +3,11 @@ Auch Gloomsea genannt.
 
 Die Meere von Eldros sind erstaunlich stark besiedelt. Bekannt sind hier vor allem Völker/Länder(und ähnliche Zusammenschlüsse), die in der Nähe der Küsten haust, aber was tatsächlich alles Unterwasser lebt - vor allem in der Tiefe - ist unklar.
 
-Man munkelt von vielen Städten die Wasserrassen hausen, aber manche Seefahrer könnten schwören sie hätten gigantische gläserne Kuppeln unter dem Wasser glitzern sehen.
+Man munkelt von vielen Städten die WasserSpezies hausen, aber manche Seefahrer könnten schwören sie hätten gigantische gläserne Kuppeln unter dem Wasser glitzern sehen.
 
-Merfolk ist die am weitest verbreitete Rasse des Wassers - aber auch die versteckteste. Aber viele Andere wurden hier gesichtet - Storm Giants (quintessent),  diesdas.
+Merfolk ist die am weitest verbreitete Spezies des Wassers - aber auch die versteckteste. Aber viele Andere wurden hier gesichtet - Storm Giants (quintessent),  diesdas.
 
-Aber auch gefährliche Rassen hausen hier, ernähren sich von Händlern und Fischern - und unvorsichtigen Reisenden.
+Aber auch gefährliche Spezies hausen hier, ernähren sich von Händlern und Fischern - und unvorsichtigen Reisenden.
 
 | Size  | Name                         | Bewohner                | Symbol | Notes? |
 | ----- | ---------------------------- | ----------------------- | ------ | ------ |

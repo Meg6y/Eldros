@@ -4,4 +4,4 @@ Ihr seit hier on death row inhaftiert durch einen blutigen und egoistischen Dikt
 
 Aber was ihr mit dieser Freiheit macht ist eure Entscheidung.
 Werdet ihr dem euch vorgeschlagenem Weg folgen und eure Schulden bereinigen? Oder werdet ihr fliehen und euren eigenen Weg auf der Flucht einschlagen? Wollt ihr euch stattdessen Feinde fürs Leben machen, die Götter selbst verärgern, ein ganzes Land in eure Herschaft bringen?
-Euch steht die gesamte Welt von [[Eldros]] zu Verfügung zu tun und lassen was ihr wollt.
+Euch steht die gesamte Welt von [[Stuff/Eldros]] zu Verfügung zu tun und lassen was ihr wollt.

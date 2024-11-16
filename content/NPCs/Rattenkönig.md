@@ -1,7 +1,7 @@
 | Name:            | Rattenkönig | Wohnort:           | [[Rivermark]]                                                        |
 | ---------------- | ----------- | ------------------ | -------------------------------------------------------------------- |
 | Geschlecht:      |             | Aussehen:          | 1m große Ratte, graues glattes Fell, dickliche Statur, Goldene Krone |
-| Rasse:           |             | Alter:             | ?                                                                    |
+| Spezies:         | Ratte       | Alter:             | ?                                                                    |
 | Stimme:          |             | Position/Beruf:    |                                                                      |
 |                  |             |                    |                                                                      |
 | Hauptgott:       |             | Interessen:        |                                                                      |

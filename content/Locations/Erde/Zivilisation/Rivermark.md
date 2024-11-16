@@ -31,5 +31,41 @@ Prunkvoll und wunderschön, bunte Glasböden mit Wasser, mehrere Stockwerke, ein
 super runtergekommen
 nur alte und verletzte / behinderte Soldaten und Adventurer
 
-### Außerhalb:
-- Alte Ruine - Jetziges Goblinlager
+## Ambiance
+Sounds: Plätschern von Wellen, Blubbern/Rauschen des Wassers, Hintergrundreden, Klackern von Schuhen und Krallen der Tortles.
+Es riecht nach Wasser, Fisch und frischem Wind.
+
+## Städte/Länder/Dynastien
+Eigenständige Stadt
+## Geographie
+Wasserstadt auf einem Fluss. Warm, feucht.
+## Industrie und Ressourcen
+Bauen auf Feldern und Grünhäusern ihr Essen an.
+Kriegen ihr meistes Geld aber von Handel und kontrolle über Geh und Wasserrouten.
+Fangen verloren gegangene Items ab.
+## Soziale Struktur
+Jetzt sind alle gleichgestellt, Menschen sind auch grundsätzlich sehr positiv der neuen Politischen Struktur gegenüber eingestellt.
+
+## Militär und Verteidigung
+Sehr wenig, neben Stadtwache eigentlich nichts. Immerwieder kommen Seewesen aus den Wasserhöhlen in der Stadt, aber werden von den dort lebenden Tritons bekämpft. Bei Angriffen auf die Stadt haben sie Verbündete, die der Stadtwache helfen können, was aber noch nicht nötig war.
+## Verbündete und Feinde, Kriege und Konflikte
+Kürzlich durchlebter Bürgerkrieg, in dem ein Diktator (name: Human, [[Stevie Teh]]) gestürzt wurde.
+Bürgerkrieg: Stevie Teh war für 18 Jahre ein harter, brutaler und unfairer Führer, der Gegner mordete und seine Position als Durchgang am Fluss ausnutzte, um Unsummen an Geld für die Durchreise und Warentransport zu berechnen. Die Bevölkerung wurde immer ärmer und ärmer, wärend er und seine Elitegruppe um ihm rum immer reicher wurde. Doch dann schließen sich das einfache Volk zusammen, unter siehe Stadtrat und eroberten die Macht zurück.
+## Die Regierung, Gesetzte und das Rechtssystem
+Jetzt Stadtrat aus 5 Personen. Sehr langsames, bürokratisches System, dafür aber meist fairer. Gewalt, Stehlerei, etc. ist alles komplett - verboten, wobei die Strafen von Arbeit/Geld zu Freiheitsstrafen reichen. Die Todesstrafe wurde kürzlich erst abgeschaft.
+**Stadtrat:** 
+- fem Mensch: [[Cacilie Lajzerowicz]] - Wirtschaft und Finanzen
+- masc Mensch: [[Josef Pilmoor]] - Ernährung, Agrikultur und Health
+- Tortle:  [[Qoppi]] - Innenpolitische Affairen, Arbeit und Soziales
+- Sea Elf: [[Anastriel Raeramne]] - Außenpolitik
+- Triton: [[Nimnis Behlollath]] - Militär, Verteildigung, Recht
+**Rechtssystem**: Wachen als Executive, Richter als erste Stufe, dann Stadtrat selbst bei schweren verbrechen. Unterwasserkerker.
+## Religion, Tempel
+Rivermarks Bewohner sind eher Religiös, vor allem um nach dem Bürgerkrieg Zuflucht in dem Bekannten zu finden.
+Es existieren
+## Feste, Zeremonien, Festivals
+## Technologie und Magie
+
+## Außerhalb:
+**Die Burg-ruine:**
+- Aktuell von Goblins bewohnt

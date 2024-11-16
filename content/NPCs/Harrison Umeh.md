@@ -2,7 +2,7 @@
 | Name:            | Harrison Umeh | Wohnort:           | [[Rivermark]]                                      |
 | ---------------- | ------------- | ------------------ | -------------------------------------------------- |
 | Geschlecht:      | male          | Aussehen:          | Fehlendes Auge, große Narbe über das halbe gesicht |
-| Rasse:           | human         | Alter:             |                                                    |
+| Spezies:         | human         | Alter:             |                                                    |
 | Stimme:          |               | Position/Beruf:    | Abenteurer in Rente                                |
 |                  |               |                    |                                                    |
 | Hauptgott:       |               | Interessen:        |                                                    |

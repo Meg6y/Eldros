@@ -43,7 +43,7 @@ eigenständige Stadt
 ### Industrie und Ressourcen
 Aran kriegt eigentlich alles über Handel. Durch gebüren bei an/durchreise und aufschläge von Ankauf von gegenständen, wird genug verdient. Vor allem Zwerge von [[Tharradur]] reisen hier viel durch, um Waren aus deren Außenposten zu holen und in ihr Mainland zu bringen. Hier befindet sich zudem ein einfacherer Zugang zu der Unterwasserwelt.
 ### Soziale Struktur
-Recht ausgeglichene Strukturen. Es gibt Schulen, Tempel verschiedenster Art, Feste, Festivals. Rassen werden hier alle (einigermaßen) gleich behandelt.
+Recht ausgeglichene Strukturen. Es gibt Schulen, Tempel verschiedenster Art, Feste, Festivals. Spezies werden hier alle (einigermaßen) gleich behandelt.
 Die meist-verwendetste Gruß-geste ist beide Arme ein bisschen von seinem Körper wegzuhalten, Handflächen nach oben, und den Kopf zu senken. Er soll zeigen, das man unbewaffnet ist und seinem Gegenüber vertraut.
 ### Militär und Verteidigung
 Sehr überproportioniertes Militär, was viel durch die Straßen patrouliert, teilweise in Tierformen. Hier vertretene Soldaten wurden von [[Valoria]] ausgebildet.

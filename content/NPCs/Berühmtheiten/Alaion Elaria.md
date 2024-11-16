@@ -2,7 +2,7 @@
 | Name:            | Alaion Elaria                                         | Wohnort:           | [[Elarian]], Hauptstadt |
 | ---------------- | ----------------------------------------------------- | ------------------ | ----------------------- |
 | Geschlecht:      |                                                       | Aussehen:          |                         |
-| Rasse:           | Wood Elf                                              | Alter:             |                         |
+| Spezies:         | Wood Elf                                              | Alter:             |                         |
 | Klasse:          |                                                       | Position/Beruf:    |                         |
 |                  |                                                       |                    |                         |
 | Hauptgott:       |                                                       | Interessen:        |                         |

@@ -2,7 +2,7 @@
 | Name:            | Daena Elaria                                          | Wohnort:           | [[Elarian]], Hauptstadt                     |
 | ---------------- | ----------------------------------------------------- | ------------------ | ------------------------------------------- |
 | Geschlecht:      |                                                       | Aussehen:          |                                             |
-| Rasse:           | Wood Elf                                              | Alter:             | 259                                         |
+| Spezies:         | Wood Elf                                              | Alter:             | 259                                         |
 | Klasse:          |                                                       | Position/Beruf:    | Herrscht über Zwischen den Wassern Elarians |
 |                  |                                                       |                    |                                             |
 | Hauptgott:       |                                                       | Interessen:        |                                             |
