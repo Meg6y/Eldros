@@ -13,3 +13,7 @@ Wie kennt ihr ihn?: berühmter Autor
 | Geld:              |                                                                                                                       |                    |                                                                                                              |
 ### Notizen:
 Hat ein [Ghost step tattoo](https://dnd5e.wikidot.com/wondrous-items:ghost-step-tattoo) 
+
+Seine Arbeiten:
+[[Ein Brief an Nay]]
+[[The Big Rift]]

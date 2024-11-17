@@ -1,0 +1,1 @@
+https://forgottenrealms.fandom.com/wiki/Zariel

@@ -1,0 +1,1 @@
+Spitzen von Aktiven (Unterwasser)vulkanen, die sich zwischen zwei Kontinenten entlangziehen. Spucken immerwieder Feuer und sind damit für das meiste Leben unbewohnbar.

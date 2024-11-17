@@ -18,7 +18,7 @@ Oft auch als Fisch oder anderes reines Wasserwesen unterwegs, nie aber als Hai o
 
 ### Einwirken auf die Welt:
 Niemand ist sich wirklich sicher was Nay so macht, weil seine Herrschaftsbereiche von absolutem Chaos regiert werden. Manche schwören, dass Nay sie von einem Unwetter beschützte, andere, dass er ihr Boot versenkte.
-#### Artifakte/Relikte (Gerüchte):
+#### Artefakte/Relikte (Gerüchte):
 [[Staff of Flowing Water]]
 ### Clergy und Diener:
 

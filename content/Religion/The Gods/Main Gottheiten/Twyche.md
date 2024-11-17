@@ -19,7 +19,7 @@ Als junge Halfling Frau mit dunklen curls, dunklerer Haut und einem ständigen s
 ##### Einwirken auf die Welt:
 Humanoide die ihre Hochzeit von Twyche segnen lassen tragen ein für sie eigends designetes Tattoo-sybol auf ihrem rechten Handballen. (Zusätzlich zu eigener Symbolic). Romantische Beziehung hat normalerweise keine äußere Anzeichen. Freunde hingegen lassen sich auch oft Tattoowieren, aber oft an unauffälligeren Plätzen.
 Die Tattoos werden nicht gestochen sondern erscheinen magisch, wenn die Humanoide sich die Hände reichen und diese mit einem Tuch umbunden und dann mit einer Flüssigkeit und einem Segen übergossen wird. Sie brennen in einem hellen roten Licht (manche schwören, das es nicht wehtut, aber die weiterverbreitete Meinung ist das es sehr sehr stark ziept). Die Symbole funktionieren auch später magisch - sie können schwächer werden, falls die Humanoide ihre Bindung aufgeben, sogar verschwinden und sie können bei einem angerichteten Schaden in der Beziehung sogar ausbrennen, ewige Narben hinterlassend.
-##### Artifakte/Relikte (Gerüchte):
+##### Artefakte/Relikte (Gerüchte):
 Die Tattoos?
 Musikinstrumente, Schmuck?
 ##### Clergy und Diener:

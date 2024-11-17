@@ -19,7 +19,7 @@ In seiner menschlichen Form ist er ein androgyner, schwer zu erkennender Mensch,
 
 ### Einwirken auf die Welt:
 Yoshiri verspricht den Anhängern vor allem selber Hinterlistig und Täuschend zu sein, aber gleichzeitig selber nicht getäuscht oder verraten zu werden.
-#### Artifakte/Relikte (Gerüchte):
+#### Artefakte/Relikte (Gerüchte):
 ??
 ### Clergy und Diener:
 Keine festen Diener, immer wieder finden sich Gruppierungen zusammen, die ihm zudanke eine Bet-stätte errichten, aber niemand dient ihm für sonderlich lange.

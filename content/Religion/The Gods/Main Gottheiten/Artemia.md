@@ -23,7 +23,7 @@ Artemias Persönlichkeit geht von absoluter Gleichgültigkeit zu Humanoiden bish
 
 ##### Einwirken auf die Welt:
 Inspiriert gerne ihre Anbeter mit künstlerischen Eingebungen. Unterstützt bei der Jagt. Sie weigert sich aber in Leben und Tod einzugreifen, weil sie der Meinung ist, die Natur wisse was sie tue und selbst sie würde nie darin eingreifen. Ihre Anhänger werden daher trotzdem immer wieder von Tieren/der Natur selber tödich verletzt.
-##### Artifakte/Relikte:
+##### Artefakte/Relikte:
 [[Artemias Bogen]] ??
 
 | Taboos:                                           | Gesetze:                                                   |

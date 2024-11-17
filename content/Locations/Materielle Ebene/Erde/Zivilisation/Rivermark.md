@@ -38,7 +38,7 @@ Es riecht nach Wasser, Fisch und frischem Wind.
 ## Städte/Länder/Dynastien
 Eigenständige Stadt
 ## Geographie
-Wasserstadt auf einem Fluss. Warm, feucht.
+Wasserstadt auf einem Fluss [[Zalyra Wasserlauf]]. Warm, feucht.
 ## Industrie und Ressourcen
 Bauen auf Feldern und Grünhäusern ihr Essen an.
 Kriegen ihr meistes Geld aber von Handel und kontrolle über Geh und Wasserrouten.
