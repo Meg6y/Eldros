@@ -40,8 +40,62 @@
 //Markericons:
 	var BergeIcon = new L.Icon({
 	    iconUrl: '/00Imagefolder/IconsMap/Berge.png',
-	    iconSize: [40, 40],
-	    iconAnchor: [20, 20],
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var FlüsseIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Flüsse.png',
+	    iconSize: [20, 20],
+	    iconAnchor: [10, 10],
+	    popupAnchor: [-3, -38]
+	});
+	var InselnIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Inseln.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var KontinentIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Kontinent.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var LakeIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Lake.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var MischwaldIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Berge.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var OceanIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Berge.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var RegenwaldIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Berge.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var SavanneIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Berge.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
+	    popupAnchor: [-3, -38]
+	});
+	var WüsteIcon = new L.Icon({
+	    iconUrl: '/00Imagefolder/IconsMap/Berge.png',
+	    iconSize: [30, 30],
+	    iconAnchor: [15, 15],
 	    popupAnchor: [-3, -38]
 	});
 	
@@ -101,31 +155,80 @@
 	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Flüsse
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([1154.30, 177.91], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Drachenzunge');
+	L.marker([1044.44, 279.20], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Onar');
+	L.marker([1000.50, 287.77], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Bo');
+	L.marker([946.38, 341.36], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Cajo');
+	L.marker([1062.13, 375.66], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Bo');
+
+	L.marker([1347.00, 809.50], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Aschestrom');
+	L.marker([1265.50, 748.00], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Zwillingsfluss');
+	L.marker([1273.50, 802.50], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Geschwisterfluss');
+	L.marker([1198.00, 836.00], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Mutterstrom');
+	L.marker([1264.50, 884.00], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Glittergold Gewässer');
+	    
+	L.marker([936.91, 819.60], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Kekelins Flusslauf');
+	L.marker([711.04, 746.94], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Cappuccina Wasserstraße');
+	L.marker([783.99, 806.10], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Cappuchina Wasserlauf');
+
+	L.marker([815.89, 1342.13], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Apollorstrom');
+	L.marker([759.26, 1356.76], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Galathar Lauf');
+	L.marker([920.39, 1516.02], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Zalyra Lauf');
+	L.marker([800.27, 1450.98], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Unterer Zalira Wasserlauf');
+	L.marker([846.23, 1494.82], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Oberer Zalyra Wasserlauf');
+	L.marker([630.74, 1259.60], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Remiliastrom');
+
+	L.marker([465.95, 1348.29], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Orta Elarduin');
+	L.marker([401.65, 1425.46], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Elariaelin Fluss');
+	L.marker([334.66, 1362.22], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Undu Elarduin');
+	L.marker([324.21, 1400.27], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Elariaelin Lauf');
+
 //Inseln
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: InselnIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Kontinente
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: KontinentIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Lake
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: LakeIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Mischwald
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: MischwaldIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Oceane
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: OceanIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Regenwald
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: RegenwaldIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Savanne
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: SavanneIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 //Wüsten
-	L.marker([529.00, 1930.00], { icon: BergeIcon }).addTo(map)
+	L.marker([529.00, 1930.00], { icon: WüsteIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
 	    
 </script>

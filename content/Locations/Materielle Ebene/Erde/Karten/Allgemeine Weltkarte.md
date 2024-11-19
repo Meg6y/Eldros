@@ -1,3 +1,4 @@
+
 <div id="map" style="width: 100%; height: 600px; z-index: 0;"></div>
 
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -296,5 +297,40 @@
 		
 	L.marker([754.20, 1982.14], { icon: AußenIcon }).addTo(map)
         .bindPopup('Gehört zu: Arvendell');
+	
+	
+	//Wildlands
+	L.marker([1584.48, 1366.13], { icon: WildIcon }).addTo(map)
+        .bindPopup('Der kalte Norden');
+        
+    L.marker([139.16, 1111.57], { icon: WildIcon }).addTo(map)
+        .bindPopup('Der kalte Süden');
+    
+	L.marker([1095.17, 469.52], { icon: WildIcon }).addTo(map)
+        .bindPopup('Niemandsland 1');
+        
+    L.marker([1345.81, 804.27], { icon: WildIcon }).addTo(map)
+        .bindPopup('Niemandsland 2');
+        
+    L.marker([976.33, 878.92], { icon: WildIcon }).addTo(map)
+        .bindPopup('Niemandsland 3');
+        
+    L.marker([920.34, 1356.63], { icon: WildIcon }).addTo(map)
+        .bindPopup('Niemandsland 4');
+        
+    L.marker([644.17, 1843.67], { icon: WildIcon }).addTo(map)
+        .bindPopup('Niemandsland 5');
+        
+    L.marker([655.36, 1171.89], { icon: WildIcon }).addTo(map)
+        .bindPopup('Niemandsland 6');
+        
+    L.marker([927.81, 682.98], { icon: WildIcon }).addTo(map)
+        .bindPopup('Vulkaninseln 1');
+        
+    L.marker([920.34, 1171.89], { icon: WildIcon }).addTo(map)
+        .bindPopup('Vulkaninseln 2');
+        
+    
 		
 </script>
+
