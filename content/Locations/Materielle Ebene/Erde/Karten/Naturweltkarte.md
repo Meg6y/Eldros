@@ -36,16 +36,6 @@
             .openOn(map); // Open the popup on the map
     });
     
-// Function to resize the icon on zoom
-map.on('zoomend', function()
-	 { var currentZoom = map.getZoom();
-	  var newSize = currentZoom * 5;  // Adjust multiplier as needed to match your scaling preference
-	   
-	   // Update the icon size
-	   customIcon.options.iconSize = [newSize, newSize]; 
-	   marker.setIcon(customIcon);
-});
-
 	
 //Markericons:
 	var BergeIcon = new L.Icon({
@@ -223,11 +213,35 @@ map.on('zoomend', function()
 	L.marker([324.21, 1400.27], { icon: FlüsseIcon }).addTo(map)
 	    .bindPopup('Elariaelin Lauf');
 //Inseln
-	L.marker([529.00, 1930.00], { icon: InselnIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([1454.90, 817.96], { icon: InselnIcon }).addTo(map)
+	    .bindPopup('Thrym Insel');
+	L.marker([1304.63, 706.68], { icon: InselnIcon }).addTo(map)
+	    .bindPopup('Parathor Insel');
+	L.marker([1207.98, 1270.36], { icon: InselnIcon }).addTo(map)
+	    .bindPopup('Rabenklippe');
+	L.marker([1172.24, 1581.46], { icon: InselnIcon }).addTo(map)
+	    .bindPopup('Askira Inseln');
+	L.marker([453.99, 1372.70], { icon: InselnIcon }).addTo(map)
+	    .bindPopup('Tolelarian');
+	L.marker([420.69, 1249.24], { icon: InselnIcon }).addTo(map)
+	    .bindPopup('Aetheria Insel');
+	L.marker([589.05, 1945.34], { icon: InselnIcon }).addTo(map)
+	    .bindPopup('Arvendelltol');
 //Kontinente
-	L.marker([529.00, 1930.00], { icon: KontinentIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([1618.25, 1136.43], { icon: KontinentIcon }).addTo(map)
+	    .bindPopup('Der Kalte Norden');
+	L.marker([1116.28, 582.21], { icon: KontinentIcon }).addTo(map)
+	    .bindPopup('Intrialus');
+	L.marker([1144.27, 794.94], { icon: KontinentIcon }).addTo(map)
+	    .bindPopup('Altioremtria');
+	L.marker([1386.86, 1283.85], { icon: KontinentIcon }).addTo(map)
+	    .bindPopup('Patrianguli');
+	L.marker([933.41, 781.88], { icon: KontinentIcon }).addTo(map)
+	    .bindPopup('Altiustria');
+	L.marker([782.25, 1755.97], { icon: KontinentIcon }).addTo(map)
+	    .bindPopup('Ingentis');
+	L.marker([138.46, 1257.73], { icon: KontinentIcon }).addTo(map)
+	    .bindPopup('Der Kalte Süden');
 //Lake
 	L.marker([529.00, 1930.00], { icon: LakeIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');
