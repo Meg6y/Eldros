@@ -34,6 +34,8 @@
             .setLatLng(latlng) // Set the position of the popup
             .setContent(popupContent) // Set the content of the popup
             .openOn(map); // Open the popup on the map
+	
+	.fixed-size-icon { transform: scale(1); /* Prevents scaling */ }
     });
 
 	
@@ -43,6 +45,7 @@
 	    iconSize: [30, 30],
 	    iconAnchor: [15, 15],
 	    popupAnchor: [-3, -38]
+	    className: 'fixed-size-icon'
 	});
 	var FlüsseIcon = new L.Icon({
 	    iconUrl: '/00Imagefolder/IconsMap/Flüsse.png',
@@ -101,6 +104,13 @@
 	
 //Marker
 //Berge
+	L.marker([1073.89, 147.02], { icon: BergeIcon }).addTo(map)
+	    .bindPopup('Vulkan - Dachenfels');
+	L.marker([1204.24, 550.96], { icon: BergeIcon }).addTo(map)
+        .bindPopup('Vulkan - Surtur Feuer');
+    L.marker([1068.58, 557.03], { icon: BergeIcon }).addTo(map)
+	    .bindPopup('Vulkan - Sekolah Rot');
+	    
     L.marker([870.73, 153.52], { icon: BergeIcon }).addTo(map)
         .bindPopup('Kurtulmak Bergkette');
 	L.marker([1014.30, 209.06], { icon: BergeIcon }).addTo(map)
@@ -205,7 +215,6 @@
 	    .bindPopup('Undu Elarduin');
 	L.marker([324.21, 1400.27], { icon: FlüsseIcon }).addTo(map)
 	    .bindPopup('Elariaelin Lauf');
-
 //Inseln
 	L.marker([529.00, 1930.00], { icon: InselnIcon }).addTo(map)
 	    .bindPopup('Arvendellischer Gebirgszug');

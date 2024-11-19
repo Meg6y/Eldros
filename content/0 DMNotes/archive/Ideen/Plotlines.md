@@ -1,0 +1,8 @@
+- My favorite one I got so far was a secret letter I wrote from one king to another, that the players had to deliver. I made an envelope out of actual parchment and sealed it with an actual wax seal and gave it to one of each of the players to take home between sessions, to test them with the king's trust. Nobody opened it, but it created so much mystery and intrigue that after they delivered it and I DIDN'T tell them what it said, they broke into the royal palace to steal it back.
+- the most memorable for me was a physical love letter that I had players deliver for one elf to another. They where told to find a female elf at an outpost and not open the scroll. They didn't.
+  Little did they know the scroll was an explosive rune, which shredded the flesh off of the top half of the female elf they delivered it to. Dead was that outpost's commander.
+  I will never forget the shock and horror on the players faces as they all kicked themselves for not checking the scroll for magics.
+- City of thiefes (adventure time)
+- An invitation from a wizard to test out an experimental ritual. The wizard wants to peer back into the ancient past, for various reasons, and would like someone other than him to test it.
+  The ritual works and the druid is able to see a distant past when dinosaurs roamed. Give them 1-3 dinosaurs they can wild shape into.
+  The wizard, protective of their work, will not share how this is done and isn't willing to do requests for now. Perhaps they can become plot useful/relevant later.
