@@ -34,9 +34,17 @@
             .setLatLng(latlng) // Set the position of the popup
             .setContent(popupContent) // Set the content of the popup
             .openOn(map); // Open the popup on the map
-	
-	.fixed-size-icon { transform: scale(1); /* Prevents scaling */ }
     });
+    
+// Function to resize the icon on zoom
+map.on('zoomend', function()
+	 { var currentZoom = map.getZoom();
+	  var newSize = currentZoom * 5;  // Adjust multiplier as needed to match your scaling preference
+	   
+	   // Update the icon size
+	   customIcon.options.iconSize = [newSize, newSize]; 
+	   marker.setIcon(customIcon);
+});
 
 	
 //Markericons:
@@ -45,7 +53,6 @@
 	    iconSize: [30, 30],
 	    iconAnchor: [15, 15],
 	    popupAnchor: [-3, -38]
-	    className: 'fixed-size-icon'
 	});
 	var FlüsseIcon = new L.Icon({
 	    iconUrl: '/00Imagefolder/IconsMap/Flüsse.png',
