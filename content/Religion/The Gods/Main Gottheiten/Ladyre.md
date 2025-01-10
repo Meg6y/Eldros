@@ -13,14 +13,14 @@ Ladyre hat wenig "Anhänger" die nicht ihre eigenen Abkommen sind, weil sie sich
 ### Beliebtestes Erscheinungsbild:
 Ladyre erscheint eigentlich grundsätzlich gar nicht.
 Aber.
-Große, Starke feminine Person, oft in Nebel und Kringel eingehüllt,  ihr Gesicht stark verzogen und zu einer Grimasse verzogen. Dunkle, große Augen, blasse weiß-graue haut, chaotische schwarze Haare.
+Große, Starke feminine Person, oft in Nebel und Kringel eingehüllt,  ihr Gesicht stark zu einer Grimasse verzogen. Dunkle, große Augen, blasse weiß-graue haut, chaotische schwarze Haare.
 
 ### Einwirken auf die Welt:
 Selten kommt es vor das Ladyre einen ihrer Elrosschen Anhänger auserkührt und mit enormer Macht segnet.
 ##### Artifakte/Relikte (Gerüchte):
 Wicked Gegenstände, manchmal offensichtlich furchtbar, manchmal unschuldig aussehend, aber trotzdem... furchtbar.
 #### Clergy und Diener:
-Ladyres Diener, meist ihre eigenen Abkommen, existieren um zu existieren, da ihre Göttin sie Schafft und dann nicht weiter beachtet. Die Meisten von ihnen Leben ihr Leben unterirdisch und sterben in Ladyres Tempeln, manche verbreiten ihr Chaos auf der Erde, einige wenige intelligentere Wesen machen sich auf den zu [[Bluethor]].
+Ladyres Diener, meist ihre eigenen Abkommen, existieren um zu existieren, da ihre Göttin sie Schafft und dann nicht weiter beachtet. Die Meisten von ihnen Leben ihr Leben unterirdisch und sterben in Ladyres Tempeln, manche verbreiten ihr Chaos auf der Erde, einige wenige intelligentere Wesen machen sich auf den Weg zu [[Bluethor]].
 Ihre Eldorsschen stärksten Anhänger leben ihr Leben meist unter anderen Zivilisten und verbreiten dort ihr Unwesen, sei es mit ihrer Magie, ihrer Medizin, ihren Untoten, wie auch immer.
 So richtig Organisiert ist bei Ladyre nichts.
 

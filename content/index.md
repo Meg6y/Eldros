@@ -171,7 +171,7 @@ Alle Hinweise und Besonderheiten der Welt findet ihr hier: [[Eldros]].
         .bindPopup('Mondhafen');
 		
 	L.marker([808.68, 1438.50], { icon: CountryIcon }).addTo(map)
-        .bindPopup('Orden von Luminara');
+        .bindPopup('Luminara');
 		
 	L.marker([795.68, 1344.28], { icon: CountryIcon }).addTo(map)
         .bindPopup('Galathar');

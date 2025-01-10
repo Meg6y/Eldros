@@ -1,5 +1,6 @@
 Im [[Niemandsland 5]] gab es vor nicht allzu vielen Jahren einen großen Rift, in dem sich Eldros in einem kleinen Gebiet mit einer bisher unbekannten Ebene der Existenz ([[Somnium]])
- mischte. 
+ mischte.
+
 
 [[Wade Morfir]] schreibt darüber:
 "
@@ -29,3 +30,5 @@ Die oben erwähnten Abenteurer schafften es schließlich die Kultführer umzubri
 "
 #platzhalter 
 "
+
+ Out of Universe: Ehemalige Kampagne, gespielt mit Daniel ([[Aälton Donaar of Daardendrian]]), Fritz ([[Eddy Pumpkin Root Somersault]] , Martin ([[Bel´veth]] und Lou ([[Bruder Aramir]]) , 2022- early 2024, zweite Hälfte auch Bennet [[Morn Evenwood]]

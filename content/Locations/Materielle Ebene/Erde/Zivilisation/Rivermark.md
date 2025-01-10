@@ -67,5 +67,5 @@ Es existieren
 ## Technologie und Magie
 
 ## Außerhalb:
-**Die Burg-ruine:**
+**Die Burg-ruine:** ([[Rivermark_s]])
 - Aktuell von Goblins bewohnt
