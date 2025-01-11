@@ -1,2 +1,2 @@
-Hadau - Gott der Samenkörner
-Glaw - Gott des Regens
+- Hadau - Gott der Samenkörner
+- Glaw - Gott des Regens

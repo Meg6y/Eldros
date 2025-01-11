@@ -1,4 +1,4 @@
-Golann - Gottheit des Kerzenlichts
+- Golann - Gottheit des Kerzenlichts
 
 Zusammen mit Apollor schuf sie:
-[[Askiras und Apollors Kinder]]
+- [[Askiras und Apollors Kinder]]

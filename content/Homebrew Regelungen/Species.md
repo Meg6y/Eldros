@@ -1,2 +1,2 @@
-Yuki Onna: https://www.dndbeyond.com/species/1826299-yuki-onna (Eingeführt in dem Weihnachtsoneshot 24)
-Jotnar: https://www.dandwiki.com/wiki/Jotnar_(5e_Race) (Eingeführt in der Somnium-kampagne)
+- Yuki Onna: https://www.dndbeyond.com/species/1826299-yuki-onna (Eingeführt in dem Weihnachtsoneshot 24)
+- Jotnar: https://www.dandwiki.com/wiki/Jotnar_(5e_Race) (Eingeführt in der Somnium-kampagne)

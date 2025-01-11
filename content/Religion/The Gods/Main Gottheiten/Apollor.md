@@ -27,5 +27,5 @@ Clergy und Diener: Apollorsche Priester sind meistens schlichte Humanoide, die a
 [[Dunkelnacht]]
 
 ## Bekannte Kinder:
-[[Askiras und Apollors Kinder]]
-[[Apollor und Horaths Kinder]]
+- [[Askiras und Apollors Kinder]]
+- [[Apollor und Horaths Kinder]]

@@ -1,2 +1,2 @@
-Marwy - Göttin der Navigation
-Diotet - Schutzgott der Reisenden
+- Marwy - Göttin der Navigation
+- Diotet - Schutzgott der Reisenden
