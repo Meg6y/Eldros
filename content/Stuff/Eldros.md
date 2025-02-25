@@ -8,7 +8,7 @@ Nicht nur die Oberfläche ([[Erde - Politik]]), sondern auch die Wasser([[Wasser
 - Auf Eldros gibt es neben männlich, weiblich auch selblich (auf deutsch wäre das einfach alles was nicht m oder w ist), und fluid. Der Wechsel zwischen den Geschlechtern ist nicht nur den Göttern vorenthalten, sondern auch den Erdlichen gestattet, nur selten haben Einzelne ein Problem mit dem solchen
 ## Weitere Merkmale
 Elros hat:
-- Zwei Monde (siehe [[Der_Nachthimmel]])
+- Zwei Monde (siehe [[Der Nachthimmel]])
 - Einen eigenen Kalender (siehe [[Der Kalendar]])
 - Entsprechend bisschen angepasste [[Lebenserwartungen]]
 - Eigene Gottheiten (siehe [[Religion]])

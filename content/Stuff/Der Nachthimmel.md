@@ -1,9 +1,12 @@
 #### Sternbilder
 15 [[Zodiacs]] (a 16 Tage) : Hase, Tunfisch, Eule, Löwe, Ratte, Katze, Delfin, Igel, Hai, Tiger, Ameise, Hund, Lachs, Bär, Schmetterling
 
-15 Götter Sternbilder
+Götter Sternbilder
 
 Sontige Sternbilder: ein Sternbild jeh Klasse, eines jeh Spezies
+- Archer (Für Stardruiden)
+- Chalice (Für Stardruiden)
+- Dragon (Für Stardruiden)
 
 #### Monde
 Eldros hat 2 Monde. Zephara und Thalor.
