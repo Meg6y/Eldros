@@ -191,10 +191,12 @@
 	L.marker([783.99, 806.10], { icon: FlüsseIcon }).addTo(map)
 	    .bindPopup('Cappuchina Wasserlauf');
 
-	L.marker([815.89, 1342.13], { icon: FlüsseIcon }).addTo(map)
+	L.marker([661.28, 1644.10], { icon: FlüsseIcon }).addTo(map)
 	    .bindPopup('Apollorstrom');
-	L.marker([759.26, 1356.76], { icon: FlüsseIcon }).addTo(map)
+	L.marker([748.10, 1166.63], { icon: FlüsseIcon }).addTo(map)
 	    .bindPopup('Galathar Lauf');
+	L.marker([760.42, 1324.18], { icon: FlüsseIcon }).addTo(map)
+	    .bindPopup('Zalyra Ströme');
 	L.marker([920.39, 1516.02], { icon: FlüsseIcon }).addTo(map)
 	    .bindPopup('Zalyra Lauf');
 	L.marker([800.27, 1450.98], { icon: FlüsseIcon }).addTo(map)
