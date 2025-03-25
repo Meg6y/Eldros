@@ -13,6 +13,6 @@ Liste von Listen von diesen Gottheiten:
 - [[Basilors und Twyches Kinder]]
 - [[Die brutalen Drei]]
 - [[Die Wassergottheiten]]
-- [[Remilias Kinder]]
+- [[Ramiras Kinder]]
 - [[Twyches Kinder]]
 - [[Sonstige]]

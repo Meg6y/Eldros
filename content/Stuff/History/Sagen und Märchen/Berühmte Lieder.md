@@ -1,7 +1,7 @@
-### **„Die sanfte Hand von Remilia“** – Heilungslied
+### **„Die sanfte Hand von Ramira“** – Heilungslied
 > "Oh, sanfte Hand, die Wunden heilt,
 > wenn jede Hoffnung längst verweilt.
-> Remilia, in deiner Macht,
+> Ramira, in deiner Macht,
 > wird uns die Gesundheit zurückgebracht.
 > Oh sanfte Hand, oh stiller Mut,
 > du bringst das Leben, machst alles gut.

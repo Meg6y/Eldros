@@ -28,8 +28,8 @@
 > Blumen, Bäume, alle hier,  
 > Sie alle kommen nur von ihr."
 
-**Remilia**:
-> "Remilia, komm und heile mich,
+**Ramira**:
+> "Ramira, komm und heile mich,
 > Gib mir viel Kraft, ich bitte dich!
 > In meiner Not ruf ich zu dir,
 > denn du hilfst Tier, Natur und mir!"

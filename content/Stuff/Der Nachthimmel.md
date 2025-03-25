@@ -4,9 +4,24 @@
 Götter Sternbilder
 
 Sontige Sternbilder: ein Sternbild jeh Klasse, eines jeh Spezies
-- Archer (Für Stardruiden)
-- Chalice (Für Stardruiden)
-- Dragon (Für Stardruiden)
+- Das Herz (Barbar)
+- Die Note (Bard)
+- Der Stab (Cleric)
+- Der Samen (Druide)
+- Der Helm (Fighter)
+- Die Hand (Monk)
+- Der Kopf (Paladin)
+- Der Bogen (Ranger)
+- Der Ring (Rogue)
+- Die Flamme (Sorcerer)
+- Das Auge (Warlock)
+- Das Buch (Wizard)
+- Das Zahnrad (Artificer)
+
+- Das Ladyre L
+- Das Blatt (Bluethor)
+
+- 
 
 #### Monde
 Eldros hat 2 Monde. Zephara und Thalor.

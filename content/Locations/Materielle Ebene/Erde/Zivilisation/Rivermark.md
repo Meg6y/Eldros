@@ -13,6 +13,7 @@
 |                     |                                                                                                                                                                        |
 | Symbol/Flagge:      | Fluss mit Strich in der Mitte                                                                                                                                          |
 ### Notes:
+Wichtige Geschichte: [[Rivermarkscher Bürgerkrieg]]
 Der Fluss, auf dem die Stadt gebaut steht, befindet sich sehr untypisch in einer Schlucht und hat deshalb keine Strände oder Seichtere Ränder, sondern Steinerne Wände.
 Die Stadt selber besteht aus sich vielen windenden Türmen, Treppen und Häusern auf Stelzen.  Zusätzlich könnt ihr in dem unnatürlich klarem Wasser in den Wänden des Tiefen Flusses Höhleneingänge erkennen, manche Gebaut und verziert wie Hauseingänge, manche natürlich und steinern gehalten.
 ### Euch Bekannte Orte:
@@ -49,7 +50,7 @@ Jetzt sind alle gleichgestellt, Menschen sind auch grundsätzlich sehr positiv d
 ## Militär und Verteidigung
 Sehr wenig, neben Stadtwache eigentlich nichts. Immerwieder kommen Seewesen aus den Wasserhöhlen in der Stadt, aber werden von den dort lebenden Tritons bekämpft. Bei Angriffen auf die Stadt haben sie Verbündete, die der Stadtwache helfen können, was aber noch nicht nötig war.
 ## Verbündete und Feinde, Kriege und Konflikte
-Kürzlich durchlebter Bürgerkrieg, in dem ein Diktator (name: Human, [[Stevie Teh]]) gestürzt wurde.
+Kürzlich durchlebter Bürgerkrieg, in dem ein Diktator (name: Human, [[Stevie Teh]]) gestürzt wurde. (siehe [[Rivermarkscher Bürgerkrieg]])
 Bürgerkrieg: Stevie Teh war für 18 Jahre ein harter, brutaler und unfairer Führer, der Gegner mordete und seine Position als Durchgang am Fluss ausnutzte, um Unsummen an Geld für die Durchreise und Warentransport zu berechnen. Die Bevölkerung wurde immer ärmer und ärmer, wärend er und seine Elitegruppe um ihm rum immer reicher wurde. Doch dann schließen sich das einfache Volk zusammen, unter siehe Stadtrat und eroberten die Macht zurück.
 ## Die Regierung, Gesetzte und das Rechtssystem
 Jetzt Stadtrat aus 5 Personen. Sehr langsames, bürokratisches System, dafür aber meist fairer. Gewalt, Stehlerei, etc. ist alles komplett - verboten, wobei die Strafen von Arbeit/Geld zu Freiheitsstrafen reichen. Die Todesstrafe wurde kürzlich erst abgeschaft.
