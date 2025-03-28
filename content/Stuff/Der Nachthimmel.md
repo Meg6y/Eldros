@@ -4,24 +4,12 @@
 Götter Sternbilder
 
 Sontige Sternbilder: ein Sternbild jeh Klasse, eines jeh Spezies
-- Das Herz (Barbar)
-- Die Note (Bard)
-- Der Stab (Cleric)
-- Der Samen (Druide)
-- Der Helm (Fighter)
-- Die Hand (Monk)
-- Der Kopf (Paladin)
-- Der Bogen (Ranger)
-- Der Ring (Rogue)
-- Die Flamme (Sorcerer)
-- Das Auge (Warlock)
-- Das Buch (Wizard)
-- Das Zahnrad (Artificer)
+- Barbar, Bard, Cleric, Druide, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard, Artificer
 
-- Das Ladyre L
+- Das Ladyre Auge
 - Das Blatt (Bluethor)
 
-- 
+- Verschiedene magische Tiere - Drache, Owlbear, etc.
 
 #### Monde
 Eldros hat 2 Monde. Zephara und Thalor.
@@ -30,6 +18,7 @@ Hellster Stern: Silberfunke - eigentlich universel
 
 Sonstige Sterne sehr individuel, nach Gottheiten, Berühmtheiten, Regierenden oder verstorbenen Personen, etc.
 
+![[sternbilder.jpg|1000]]
 #### Planeten
 Manchmal sind Planeten am Himmel zu erkennen.
 
