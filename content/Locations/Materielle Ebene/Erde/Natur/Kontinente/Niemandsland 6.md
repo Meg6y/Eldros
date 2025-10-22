@@ -1,1 +1,0 @@
-gigantische, fast grundsätzlich unbewohnbare (und entsprechend unbewohnte) Wüste.

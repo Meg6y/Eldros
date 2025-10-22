@@ -1,1 +1,0 @@
-Diese Ebenen repräsentieren verschiedene ethische und moralische Prinzipien. Sie sind oft Heimat von Göttern und anderen mächtigen Wesen.

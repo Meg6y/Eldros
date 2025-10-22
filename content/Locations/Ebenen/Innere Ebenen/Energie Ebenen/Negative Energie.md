@@ -1,1 +1,0 @@
-Quelle des Todes und der Zerstörung.

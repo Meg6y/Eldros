@@ -1,1 +1,0 @@
-Eine Ebene aus unendlichen Ozeanen und Gewässern.

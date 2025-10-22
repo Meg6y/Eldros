@@ -1,3 +1,0 @@
-- Seir - Göttin der Sterne
-- Llei - Gott des Mondes
-- Serenth - Gottheit der fallenden Sterne

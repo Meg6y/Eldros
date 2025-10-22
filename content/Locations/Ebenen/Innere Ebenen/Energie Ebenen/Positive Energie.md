@@ -1,1 +1,0 @@
-Quelle des Lebens und der Schöpfung.
