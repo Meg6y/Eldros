@@ -1,0 +1,6 @@
+- Fisherboat (Rowing boat):
+	- bei 3 Personen darinnen
+	- 1 rowd:
+		- 10 feet pro runde
+	- 2 rowen:
+		- 20 feet pro runde

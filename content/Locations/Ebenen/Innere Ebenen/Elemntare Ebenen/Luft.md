@@ -1,0 +1,1 @@
+Eine Ebene aus endlosem Himmel und Wolken.

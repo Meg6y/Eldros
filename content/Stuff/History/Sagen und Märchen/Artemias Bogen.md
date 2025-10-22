@@ -1,0 +1,1 @@
+Man sagt Artemia hätte vor vielen Jahrhunderten einen ihrer Bögen auf Eldros verloren, einen unzerstörbaren Bogen mit einer großen Macht.

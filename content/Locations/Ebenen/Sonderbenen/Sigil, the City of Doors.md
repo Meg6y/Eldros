@@ -1,0 +1,1 @@
+Eine Stadt, die im Zentrum der Outlands liegt und als Verbindungspunkt zu vielen Ebenen dient.
