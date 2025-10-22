@@ -1,0 +1,6 @@
+Buch.
+
+Informationen über Nighthags:
+- **Heartstone:** Erwähnt, dass die Hag diesen roten Stein _immer_ bei sich trägt. Er ist ihre Verbindung zur Hölle. Ohne ihn ist sie in der materiellen Ebene gefangen. Vielleicht steht dort sogar ein Ritual, um den Stein zu "erschöpfen" oder zu "stören".
+- Ihr Leben: Nighthags sind meist reisend, nur sehr mächtige Nighthags haben Lairs mit Schwestern und Kindern. Die meisten Nighthags halten sich in kleinen Höhlen und Bauten auf, Alten Minenschächten oder Ruinen, beschützt durch fallen und ihren Minions. In diesen Lairs verbindet sich die Materielle Ebene und die Ethereale Ebene, zwischen denen die Nighthag willendlich wechseln kann.
+- Albträume: Manche Nighthags verbringen ihre Zeit damit ihren Opfern langsam durch Albträume das Leben zu rauben. Eine permanente Heilung jenseits des Mordes an der Hag dafür ist unbekannt - aber als Schutz dient "protection from evil and good" und "magic circle". Die effekte der Albträume können durch greater restoration beseitigt werden.
