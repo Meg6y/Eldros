@@ -12,4 +12,6 @@ Wie kennt ihr ihn?:
 | Wertgegenstände:   | Ausrüstung/Schmiede | Fancy Gegenstände: | [[Bag of Holding]], [[Demon Armor]], [[Magic Diceset]] |
 | Geld:              | Viel                |                    |                                                        |
 ### Notizen:
+Beteiligt an: [[The Big Rift]]
+
 Besitzt eine Schmiede in einer größeren Stadt in [[Elvaria]]

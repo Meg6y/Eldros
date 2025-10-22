@@ -12,3 +12,4 @@ Wie kennt ihr ihn?:
 | Wertgegenstände:   | Einiges an Edelsteinen                                                        | Fancy Gegenstände: | [[Spider Amulet]], [[Blütenring]]                                         |
 | Geld:              | nicht viel, da er es ausgibt                                                  |                    |                                                                           |
 ### Notizen:
+Beteiligt an: [[The Big Rift]]

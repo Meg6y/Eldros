@@ -14,9 +14,9 @@ Sontige Sternbilder: ein Sternbild jeh Klasse, eines jeh Spezies
 #### Monde
 Eldros hat 2 Monde. Zephara und Thalor.
 #### Sterne
-Hellster Stern: Silberfunke - eigentlich universel
+Hellster Stern: Silberfunke - eigentlich universell
 
-Sonstige Sterne sehr individuel, nach Gottheiten, Berühmtheiten, Regierenden oder verstorbenen Personen, etc.
+Sonstige Sterne sehr individuell, nach Gottheiten, Berühmtheiten, Regierenden oder verstorbenen Personen, etc.
 
 ![[sternbilder.jpg|1000]]
 #### Planeten

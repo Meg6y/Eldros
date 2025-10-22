@@ -12,4 +12,6 @@ Wie kennt ihr ihn?:
 | Wertgegenstände:   | wenig; Ausrüstung       | Fancy Gegenstände: | [[Robe of Eyes]], [[Soul of the Woods Staff]]    |
 | Geld:              | wenig, da er es weggibt |                    |                                                  |
 ### Notizen:
+Beteiligt an: [[The Big Rift]]
+
 Eng befreundet mit [[Aälton Donaar of Daardendrian]].

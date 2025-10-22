@@ -245,22 +245,56 @@
 	L.marker([87.41, 1024.31], { icon: KontinentIcon }).addTo(map)
 	    .bindPopup('Der Kalte Süden');
 //Lake
-	L.marker([529.00, 1930.00], { icon: LakeIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([345.84, 1430.99], { icon: LakeIcon }).addTo(map)
+	    .bindPopup('Elariaelin');
 //Mischwald
-	L.marker([529.00, 1930.00], { icon: MischwaldIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([1200.10, 339.18], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Yondalla Wald');
+	L.marker([1160.69, 744.56], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Yoshiri Wald');
+	L.marker([1413.54, 1174.69], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Aetherianische Tundra');
+	L.marker([1202.68, 1421.01], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Aetherianischer Wald');
+	L.marker([1070.19, 1629.08], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Silvershore Grüne');
+	L.marker([515.68, 760.79], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Düsterholz');
+	L.marker([544.87, 1255.48], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Remilias Landschaft');
+	L.marker([377.86, 1491.54], { icon: MischwaldIcon }).addTo(map)
+	    .bindPopup('Elataur');
 //Oceane
-	L.marker([529.00, 1930.00], { icon: OceanIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([279.96, 431.59], { icon: OceanIcon }).addTo(map)
+	    .bindPopup('Shunara Wellen');
+	L.marker([998.43, 950.35], { icon: OceanIcon }).addTo(map)
+	    .bindPopup('Abyss des Apophor');
+	L.marker([933.38, 1137.03], { icon: OceanIcon }).addTo(map)
+	    .bindPopup('Nayshe Wasser');
+	L.marker([500.63, 1470.78], { icon: OceanIcon }).addTo(map)
+	    .bindPopup('Sashelas Gewässer');
+	L.marker([1445.33, 1742.31], { icon: OceanIcon }).addTo(map)
+	    .bindPopup('Bluethor Weltmeer');
+	L.marker([899.44, 1951.61], { icon: OceanIcon }).addTo(map)
+	    .bindPopup('Eadro Wasser');
 //Regenwald
-	L.marker([529.00, 1930.00], { icon: RegenwaldIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([1086.79, 251.80], { icon: RegenwaldIcon }).addTo(map)
+	    .bindPopup('Artemias Wildnis');
 //Savanne
-	L.marker([529.00, 1930.00], { icon: SavanneIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([702.83, 1795.31], { icon: SavanneIcon }).addTo(map)
+	    .bindPopup('Semuanya Steppen');
 //Wüsten
-	L.marker([529.00, 1930.00], { icon: WüsteIcon }).addTo(map)
-	    .bindPopup('Arvendellischer Gebirgszug');
+	L.marker([805.75, 134.83], { icon: WüsteIcon }).addTo(map)
+	    .bindPopup('Laogzet Wüste');
+	L.marker([526.34, 584.82], { icon: WüsteIcon }).addTo(map)
+	    .bindPopup('Tharradur Wüste');
+	L.marker([1286.61, 999.07], { icon: WüsteIcon }).addTo(map)
+	    .bindPopup('Shunarische Eiswüste');
+	L.marker([992.57, 1374.33], { icon: WüsteIcon }).addTo(map)
+	    .bindPopup('Horathsche Wüste');
+	L.marker([627.06, 1132.28], { icon: WüsteIcon }).addTo(map)
+	    .bindPopup('Lokarion Öde');
+	L.marker([672.54, 1679.74], { icon: WüsteIcon }).addTo(map)
+	    .bindPopup('Twyche Leere');
 	    
 </script>

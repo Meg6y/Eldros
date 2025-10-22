@@ -9,7 +9,7 @@
 |                     |                                                                                                                                                                        |
 | Sagen/Gerüchte:     | #tobediscovered                                                                                                                                                        |
 |                     |                                                                                                                                                                        |
-| Bekannte Bewohner?: | Ehemaliger Diktator [[Stevie Teh]] (Mensch).<br>Bartender in "[[#Taverne "Die durstige Ziege"]]" - [[Sidnee Gorasia]]<br>Der [[Rattenkönig]]                           |
+| Bekannte Bewohner?: | Ehemaliger Diktator [[Stevie Teh]] (Mensch).<br>Bartender in "[[#Taverne "Die durstige Ziege"]]" - [[Sidnee Gorasia]]<br>Der [[NPCs/Rattenkönig]]                      |
 |                     |                                                                                                                                                                        |
 | Symbol/Flagge:      | Fluss mit Strich in der Mitte                                                                                                                                          |
 ### Notes:
@@ -32,6 +32,14 @@ Prunkvoll und wunderschön, bunte Glasböden mit Wasser, mehrere Stockwerke, ein
 super runtergekommen
 nur alte und verletzte / behinderte Soldaten und Adventurer
 
+##### Die Bibliothek
+- Große, hohe Bibliothek, fliegende Treppen, Kisten und Teppiche bewegen Lesende und Mitarbeiter die gigantischen Bücherregale hoch und runter
+- Oben sehr ihr eine Plattform mit Sesseln, Kissen und Couches
+- Empfangen werdet ihr von einem männlichen Menschen, alt und grau, aber herzenslieb; Tab Knudsen
+Direkt daran angeschlossen:
+###### [[Askira]]s Tempel
+- Hölzerne anbaute an die Kirche, hoher dünner Turm, in der Mitte der ewigen Wendeltreppe wandelt ein goldenes Licht stetig nach oben
+- In absoluter Ruhe
 ## Ambiance
 Sounds: Plätschern von Wellen, Blubbern/Rauschen des Wassers, Hintergrundreden, Klackern von Schuhen und Krallen der Tortles.
 Es riecht nach Wasser, Fisch und frischem Wind.
