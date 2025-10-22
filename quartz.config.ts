@@ -65,7 +65,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true, enableCheckbox: true, }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true, enableCheckbox: true,  enableTags: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -80,7 +80,7 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
-      Plugin.TagPage(),
+//      Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
