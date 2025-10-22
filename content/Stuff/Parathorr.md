@@ -1,1 +1,0 @@
-Parathorr ist eine Sprache, eine extreme Abwandlung von common, die in [[Parathor]] und von allen die dort ausgebildet wurden gesprochen wird.
